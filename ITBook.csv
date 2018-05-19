@@ -1,0 +1,601 @@
+title,author,publish,secondTitle,originName,translator,publishYear,Pages,price,ISBN
+计算机程序的构造和解释,HaroldAbelson/GeraldJaySussman/JulieSussman,机械工业出版社,原书第2版,StructureandInterpretationofComputerPrograms,裘宗燕,2004-2,473,45.00元,9787111135104
+代码大全（第2版）,[美]史蒂夫·迈克康奈尔,电子工业出版社,无,CodeComplete,金戈,2006-3,944,128.00元,9787121022982
+算法导论（原书第2版）,[美]ThomasH.Cormen/CharlesE.Leiserson/RonaldL.Rivest/CliffordStein,机械工业出版社,无,IntroductiontoAlgorithms,潘金贵等,2006-9,754,85.00元,9787111187776
+C程序设计语言,（美）BrianW.Kernighan/（美）DennisM.Ritchie,机械工业出版社,第2版·新版,TheCProgrammingLanguage,徐宝文,2004-1,258,30.00元,9787111128069
+C++ Primer 中文版（第 4 版）,StanleyB.Lippman/JoséeLaJoie/BarbaraE.Moo,人民邮电出版社,无,"C++Primer,4thEdition",李师贤,2006,745,99.00元,9787115145543
+UNIX环境高级编程,W.RichardStevens/StephenA.Rago,人民邮电出版社,第2版,无,尤晋元,2006年,758,99.00元,9787115147318
+编程珠玑,[美]JonBentley,人民邮电出版社,第2版,ProgrammingPearlsSecondEdition,黄倩,2008-10,228,39.00元,9787115179289
+编码,[美]CharlesPetzold,电子工业出版社,隐匿在计算机软硬件背后的语言,Code:TheHiddenLanguageofComputerHardwareandSoftware,左飞,2010,392,55.00元,9787121106101
+Java编程思想 （第4版）,[美]BruceEckel,机械工业出版社,无,ThinkinginJava,陈昊鹏,2007-6,880,108.00元,9787111213826
+UNIX编程艺术,[美]EricS·Raymond,电子工业出版社,无,无,姜宏,2006-2,525,59.00元,9787121021169
+深入理解计算机系统,RandalE.Bryant/DavidO'Hallaron,中国电力出版社,无,ComputerSystems:AProgrammer'sPerspective,龚奕利,2004-5-1,873,85.00元,9787508321752
+计算机程序设计艺术（第1卷）,[美]DonaldE·Knuth,清华大学出版社,基本算法,无,无,2002-9,650,80.00元,9787302058144
+重构,[美]MartinFowler,中国电力出版社,改善既有代码的设计,Refactoring:ImprovingtheDesignofExistingCode,无,2003-8-1,464,68.00元,9787508315546
+程序员修炼之道,AndrewHunt/DavidThomas,电子工业出版社,从小工到专家,ThePragmaticProgrammer,马维达,2005-1,333,48.00元,9787505397194
+程序员的自我修养,俞甲子/石凡/潘爱民,电子工业出版社,链接、装载与库,无,无,2009-4,459,65.00,9787121085116
+算法（第4版）,塞奇威克(RobertSedgewick)/韦恩(KevinWayne),人民邮电出版社,无,Algorithms4thedition,谢路云,2012-10-1,636,99.00元,9787115293800
+C专家编程,PetervanderLinden,人民邮电出版社,无,ExpertCProgramming:DeepCSecrets,徐波,2008-2,291,45.00元,9787115171801
+UNIX网络编程,史蒂文斯/芬纳/鲁道夫,清华大学出版社,第1卷:套接口API(第3版),UnixNetworkProgramming,杨继张,2006-1,848,98.00元,9787302119746
+编程之美,《编程之美》小组编,电子工业出版社,微软技术面试心得,无,无,2008-3,327,40.00元,9787121060748
+JavaScript高级程序设计（第3版）,[美]尼古拉斯·泽卡斯,人民邮电出版社,无,ProfessionalJavaScriptforWeb,李松峰,2012-3-29,748,99.00元,9787115275790
+黑客与画家,[美]保罗·格雷厄姆,人民邮电出版社,硅谷创业之父PaulGraham文集,HackersandPainters:BigIdeasfromtheComputerAge,阮一峰,2011-4,264,49.00元,9787115249494
+C Primer Plus,StephenPrata/云巅工作室,人民邮电出版社,（第五版）,无,云巅工作室,2005-2-1,626,60.00元,9787115130228
+设计模式,[美]ErichGamma/RichardHelm/RalphJohnson/JohnVlissides,机械工业出版社,可复用面向对象软件的基础,DesignPatterns:ElementsofReusableObject-OrientedSoftware,李英军,2000-9,254,35.00元,9787111075752
+深度探索C++对象模型,[美]StanleyB·Lippman,华中科技大学出版社,无,InsidetheC++ObjectModel,侯捷,2001-5,320,54.00元,9787560924182
+Effective C++中文版,[美]ScottMeyers,华中科技大学出版社,无,无,侯捷,2001-9,259,49.80元,9787560925257
+精通正则表达式,[美]JeffreyE·F·Friedl,电子工业出版社,第3版,Masteringregularexpressions,余晟,2007,515,75,9787121046841
+Effective java 中文版（第2版）,[美]JoshuaBloch,机械工业出版社,无,EffectiveJavaSecondEdition,俞黎敏,2009-1-1,287,52.00元,9787111255833
+集体智慧编程,TobySegaran,电子工业出版社,无,ProgrammingCollectiveIntelligence,莫映,2009-1,364,59.80元,9787121075391
+JavaScript语言精粹,DouglasCrockford,电子工业出版社,无,JavaScript:TheGoodParts,赵泽欣,2009-4,155,35.00元,9787121084379
+Python源码剖析,陈儒,电子工业出版社,深度探索动态语言核心技术,无,无,2008-6,480,69.80元,9787121068744
+C和指针,KennethA·Reek,人民邮电出版社,无,PointersonC,徐波,2008年4月,448,65.00元,9787115172013
+程序员的思维修炼,[美]AndyHunt,人民邮电出版社,开发认知潜能的九堂课,PragmaticThinkingandLearning-RefactorYourWetware,崔康,2010-12-10,213,39.00元,9787115242334
+编写可读代码的艺术,"Boswell,D./Foucher,T.",机械工业出版社,无,TheArtofReadableCode,尹哲,2012-7-10,240,59.00元,9787111385448
+代码整洁之道,[美]RobertC·Martin,人民邮电出版社,无,CleanCode:AHandbookofAgileSoftwareCraftsmanship,韩磊,2010-1-1,388,59.00元,9787115216878
+程序设计实践,[美]BrianW.Kernighan/RobPike,机械工业出版社,无,ThePracticeofProgramming,裘宗燕,2000-8,221,20.00元,9787111075738
+Head First 设计模式（中文版）,[美]弗里曼,中国电力出版社,无,无,O'ReillyTaiwan公司,2007-9,637,98.00元,9787508353937
+STL源码剖析,侯捷,华中科技大学出版社,无,无,无,2002-6,493,68.00元,9787560926995
+C陷阱与缺陷,凯尼格,人民邮电出版社,C语言调试指南,CTrapsandPitfalls,高巍,2008-2-1,172,30.00元,9787115171795
+Ruby元编程,[意]PaoloPerrotta,华中科技大学出版社,无,MetaprogrammingRuby,廖志刚,2012-1-10,288,56.00元,9787560974583
+汇编语言（第2版）,王爽,清华大学出版社,无,无,无,2008-4,337,33.00元,9787302172284
+C++程序设计语言（特别版）,[美]BjarneStroustrup贝尔实验室,机械工业出版社,无,TheC++ProgrammingLanguage(SpecialEdition),裘宗燕,2002-7,905,85.00元,9787111102021
+编程人生,[美]PeterSeibel,人民邮电出版社,15位软件先驱访谈录,CodersatWork,图灵俱乐部,2011-1-1,473,79.00元,9787115239075
+Java并发编程实战,BrianGoetz/TimPeierls/JoshuaBloch/JosephBowbeer/DavidHolmes/DougLea,机械工业出版社华章公司,无,JavaConcurrencyinPractice,童云兰,2012-2,293,69.00元,9787111370048
+Head First Java（第二版·中文版）,"KathySierra,BertBates著/杨尊一编译张然等改编",中国电力出版社,无,无,杨尊一,2007-2,600,79.00元,9787508344980
+软件随想录,[美]JoelSpolsky,人民邮电出版社,程序员部落酋长Joel谈软件,MoreJoelonSoftware,阮一峰,2009,292,49.00元,9787115216342
+松本行弘的程序世界,[日]松本行弘,人民邮电出版社,无,まつもとゆきひろコードの世界~スーパー・プログラマになる14の思考法,柳德燕,2011-8,389,75.00元,9787115255075
+冒号课堂,郑晖,电子工业出版社,编程范式与OOP思想,无,无,2009-10,476,65.00元,9787121095450
+Linux C编程一站式学习,宋劲杉,电子工业出版社,无,无,无,2009-12,463,60.00元,9787121097713
+大话设计模式,程杰,清华大学出版社,无,无,无,2007-12-1,368,45.00元,9787302162063
+C++标准程序库,[德]NicolaiM·Josuttis,华中科技大学出版社,自修教程与参考手册,TheC++StandardLibrary,侯捷,2002-9,800,108.00元,9787560927824
+Unix/Linux编程实践教程,BruceMolay/杨宗源/黄海涛,清华大学出版社,无,UnderstandingUNIX/LINUXProgramming,杨宗源,2004-10-1,495,56.00元,9787302096139
+游戏引擎架构,[美]JasonGregory(杰森.格雷戈瑞),电子工业出版社,无,GameEngineArchitecture,叶劲峰,2014-1,800,128.00元,9787121222887
+C++语言的设计和演化,[美]BjarneStroustrup,机械工业出版社,无,无,裘宗燕,2002-1,370,48.00元,9787111090984
+构建之法,邹欣,人民邮电出版社,现代软件工程,无,无,2014-9,396,49.00元,9787115369161
+与孩子一起学编程,[美]桑德WarrenSande/CarterSande,人民邮电出版社,无,HelloWorld！ComputerProgrammingforKidsandOtherBeginners,苏金国,2010-11,388,65.00元,9787115239969
+The Little Schemer - 4th Edition,DanielP.Friedman/MatthiasFelleisen,TheMITPress,无,无,无,1995-12-21,216,USD40.00,9780262560993
+Python基础教程,MagnusLieHetland,人民邮电出版社,无,"BeginningPython:FromNovicetoProfessional,SecondEdition",司维,2010-7,471,69.00元,9787115230270
+A Byte of Python,SwaroopCH,LuluMarketplace,无,无,无,2008-10-1,149,USD27.98,9789577296467
+高效程序的奥秘,沃瑞恩,机械工业出版社,无,Hacker'sDelight,冯速,2004-5,242,28.00元,9787111141112
+Windows核心编程,JeffreyRichter,机械工业出版社,无,"ProgrammingApplicationsforMicrosoftWindows,4thEdition",无,2000-5-1,704,86.00元,9787111079453
+高效程序员的45个习惯,[美]VenkatSubramaniam/[美]AndyHunt,人民邮电出版社,敏捷开发修炼之道,无,钱安川,2010-01,204,35.00元,9787115215536
+CLR via C#,(美)JeffreyRichter,清华大学出版社,无,CLRviaC#(Dev-Pro),周靖,2010-9,777,99.00元,9787302232599
+七周七语言,[美]BruceA·Tate,人民邮电出版社,理解多种编程范型,SevenLanguagesinSevenWeeks:A,巨成,2012-5-8,246,59.00元,9787115276117
+深入浅出Node.js,朴灵,人民邮电出版社,无,无,无,2013-12-1,332,CNY69.00,9787115335500
+C语言编程：一本全面的C语言入门教程（第三版）,（美）StephenKochan,电子社博文视点资讯有限公司,本书是极负盛名的C语言入门经典教材，其第一版发行至今已有二十年的历史!,无,张小潘,2006年,543页,59.00元,9787121007354
+30天自制操作系统,[日]川合秀实,人民邮电出版社,无,无,周自恒,2012-8,704,99.00元,9787115287960
+JAVA 2核心技术 卷Ⅰ,[美]霍斯特曼/[美]科奈尔,机械工业出版社,基础知识,"Corejava2.VolumeI,Fundamentals",叶乃文,2006-5,691,88.00元,9787111185239
+DOOM启世录,[美]大卫·卡什诺,电子工业出版社,无,MastersofDoom,孙振南,2004-4,318,29.00元,9787505396814
+C语言程序设计,K.N.King,人民邮电出版社,现代方法,"CProgramming:AModernApproach,SecondEdition",吕秀锋,2010-4,600,79.00元,9787115219572
+编程精粹,SteveMaguire,人民邮电出版社,编写高质量C语言代码,WritingSolidCode,无,2009.2,256,45.00元,9787115193162
+卓有成效的程序员,[美]NealFord,机械工业出版社,一本揭示高效程序员的思考模式，一本告诉你如何缩短你与优秀程序员的差距,TheProductiveProgrammer,熊节,2009-3,216,45.00元,9787111264064
+挑战程序设计竞赛,秋叶拓哉/岩田阳一/北川宜稔,人民邮电出版社,无,プログラミングコンテストチャレンジブック[第2版],巫泽俊,2013-7-1,414,CNY79.00,9787115320100
+C++设计新思维,(美)AndreiAlexandrescu,华中科技大学出版社,泛型编程与设计模式之应用,ModernC++Design:GenericProgrammingandDesignPatternsApplied,侯捷,2003-03,323,59.8,9787560929064
+Fluent Python,LucianoRamalho,O'ReillyMedia,无,无,无,2015-8-20,768,USD39.99,9781491946008
+Dive Into Python,MarkPilgrim,Apress,无,无,无,2004-11-5,436,GBP31.49,9781590593561
+梦断代码,ScottRosenberg,电子工业出版社,无,DreaminginCode,韩磊,2008.06,336,49.00元,9787121066795
+Python学习手册,[美]MarkLutz,机械工业出版社,（第3版）,LearningPython,侯靖,2009-8,656,89.00元,9787111267768
+深入浅出 MFC 第二版,侯俊杰,松岗,无,无,无,1997.05,16章，942页,无,9789572225189
+程序设计语言,[英]斯科特,电子工业出版社,实践之路（第二版）,ProgrammingLanguagePragmatics,裘宗燕,2007-6,899,99.00元,9787121042980
+The Linux Programming Interface,MichaelKerrisk,NoStarchPress,ALinuxandUNIXSystemProgrammingHandbook,无,无,2010-11-6,1552,GBP79.99,9781593272203
+Erlang 程序设计,Armstrong,人民邮电出版社,无,ProgrammingErlang:SoftwareforaConcurrentWorld,赵东炜,2008,427,79.00元,9787115188694
+算法竞赛入门经典,刘汝佳,清华大学出版社,无,无,无,2009-11,225,24.00元,9787302206088
+How to Design Programs,MatthiasFelleisen/RobertBruceFindler/MatthewFlatt/ShriramKrishnamurthi,TheMITPress,AnIntroductiontoProgrammingandComputing,无,无,2001-2-12,720,71.00美元,9780262062183
+Microsoft.NET框架程序设计,JeffreyRichter,清华大学出版社,无,AppliedMicrosoft.NETFrameworkProgramming,李建忠,2003-11,596,68.00元,9787302075097
+"The Elements of Programming Style, 2nd Edition",BrianW.Kernighan/P.J.Plauger,McGraw-Hill,无,无,无,1978-1-1,168,USD50.93,9780070342071
+精通JavaScript,JohnResig,人民邮电出版社,无,ProJavaScriptTechniques,江疆,2008-4-1,289,49.00元,9787115175403
+"Cracking the Coding Interview, Fourth Edition",GayleLaakmann,CreateSpace,150ProgrammingInterviewQuestionsandSolutions,无,无,2008-10-15,310,USD40.00,9781451578270
+Python核心编程（第二版）,[美]WesleyJ.Chun（陳仲才）,人民邮电出版社,无,"CorePythonProgramming,2ndEdition",CPUG,2008-06,654,89.00元,9787115178503
+数据结构与算法分析,[美]MarkAllenWeiss,机械工业出版社,C语言描述,DataStructuresandAlgorithmAnalysisinC:SecondEdition,冯舜玺,2004-1-1,391,35.00元,9787111127482
+More Effective C++中文版,[美]ScottMeyers,中国电力出版社,无,无,侯捷,2003-3,317,50.00元,9787508314860
+你不知道的JavaScript（上卷）,[美]KyleSimpson,人民邮电出版社,无,无,赵望野,2015-4,195,49.00元,9787115385734
+C++Primer Plus,StephenPrata/孙建春/韦强,人民邮电出版社,无,无,孙建春,2005-5,788,72.00元,9787115134165
+游戏之旅,云风,电子工业出版社,我的编程感悟,无,无,2005-12-01,389,46.00,9787121016097
+Vim实用技巧,[英]DrewNeil,人民邮电出版社,无,PracticalVim,杨源,2014-5-1,286,59.00元,9787115338693
+正则指引,余晟,电子工业出版社,RegularExpressionyetanotherintroduction,无,无,2012-5-1,336,58.00元,9787121165511
+修改代码的艺术,MichaelFeathers,人民邮电出版社,无,WorkingEffectivelywithLegacyCode,刘未鹏,2007-09-25,384,59.00元,9787115163622
+Perl语言入门,RandalL.Schwartz/TomPhoenix/briandfoy,东南大学出版社,第五版,"LearningPerl,5thEdition",盛春,2009-8,325,48.00元,9787564117634
+代码之美,GreyWilson,机械工业出版社,无,BeautifulCode:LeadingProgrammersExplainHowTheyThink,聂雪军,2008年09月,599,99.00元,9787111251330
+Effective STL中文版,[美]ScottMeyers,清华大学出版社,50条有效使用STL的经验,无,潘爱民,2006-1,208,30.00元,9787302126959
+Python Cookbook,AlexMartelli/AnnaRavenscroft/DavidAscher,人民邮电出版社,（第2版）中文版,PythonCookbook,高铁军,2010-5-1,756,99.00元,9787115222664
+Processing,CaseyReas/BenFry,MITPress,AProgrammingHandbookforVisualDesignersandArtists,无,无,2007-9-28,736,GBP35.95,9780262182621
+代码的未来,[日]松本行弘,人民邮电出版社,代码的未来,无,周自恒,2013-6,356,79.00元,9787115317513
+On LISP,[美]保罗·格雷厄姆,PrenticeHall,AdvancedTechniquesforCommonLISP,无,无,"09September,1993",432,$52.00,9780130305527
+剑指Offer,何海涛,电子工业出版社,名企面试官精讲典型编程题,无,无,2012-1,260,45.00元,9787121148750
+利用Python进行数据分析,WesMcKinney,机械工业出版社,无,PythonforDataAnalysis,唐学韬,2013-11-18,464,89.00,9787111436737
+Programming Ruby中文版,[美]托马斯,电子工业出版社,无,ProgrammingRuby:thepragmaticprogrammers'guide,孙勇,2007-3,830,99.00元,9787121038150
+别怕，Excel VBA其实很简单,Excel之家(ExcelHome),人民邮电出版社,无,无,无,2012-10-1,314,49.00元,9787115289094
+Windows 程序设计：第5版,CharlesPetzold,北京大学出版社,无,无,北京博彦科技发展有限公司,2003-11-1,1376,160.00元,9787301041871
+C++程序设计原理与实践,[美]BjarneStroustrup,机械工业出版社,无,Programming:PrinciplesandPracticeUsingC++,王刚等,2010.7,668,108.00元,9787111303220
+程序员的数学,[日]结城浩,人民邮电出版社,无,无,管杰,2012-10,232,49.00元,9787115293688
+Learning Processing,DanielShiffman,MorganKaufmann,"ABeginner'sGuidetoProgrammingImages,Animation,andInteraction(MorganKaufmannSeriesinComputerGraphics)",无,无,2008-08-15,450,USD49.95,9780123736024
+The Science of Programming,DavidGries,Springer,无,无,无,1989-4-21,388,USD99.00,9780387964805
+Linux设备驱动程序,科波特,中国电力出版社,无,"LinuxDeviceDrivers,ThirdEdition",魏永明,2006-1-1,569,69.00元,9787508338637
+计算机科学概论（第11版）,J.GlennBrookshear,人民邮电出版社,无,ComputerScience:AnOverview,刘艺,2011-10-1,411,69.00元,9787115261960
+ANSI Common Lisp,[美]保罗·格雷厄姆,PrenticeHall,无,无,无,1995-11-12,432,USD116.40,9780133708752
+编程原本,AlexanderStepanov/PaulMcJones,机械工业出版社华章公司,无,ElementsofProgramming,裘宗燕,2012-1-10,281,59.00元,9787111367291
+算法新解,刘新宇,人民邮电出版社,无,无,无,2016-12-1,566,CNY99.00,9787115440358
+C++编程思想（第1卷）,[美]BruceEckel,机械工业出版社,标准C++导引,无,刘宗田,2002-9,479,59.00元,9787111108078
+C++沉思录,AndrewKoenig/BarbaraMoo,人民邮电出版社,十年编程生涯的真知灼见,RuminationsonC++:ADecadeofProgrammingInsightandExperience,黄晓春,2002-11-01,386页,50.00元,9787115106223
+Effective Modern C++,[美]ScottMeyers,O'ReillyMedia,42SpecificWaystoImproveYourUseofC++11andC++14,无,无,2014-12,320,USD49.99,9781491903995
+LUA程序设计(第2版),[巴西]莱鲁,电子工业出版社,无,无,周惟迪,2008-1,281,39.00元,9787121061875
+计算的本质,[英]TomStuart,人民邮电出版社,深入剖析程序和计算机,UnderstandingComputation:FromSimpleMachinestoImpossiblePrograms,张伟,2014-11,300,69.00元,9787115361547
+Ruby编程语言,[日]松本行弘/[美]DavidFlanagan,电子工业出版社,无,TheRubyProgrammingLanguage,廖志刚,2009-1,431,68.00元,9787121077012
+UNIX编程环境,BrianW.Kernighan/RobPike,机械工业出版社,无,无,陈向群/等,1999-10-1,255,24.00,9787111071150
+第一行代码,郭霖,人民邮电出版社,Android,无,无,2014-8,553,79.00元,9787115362865
+PHP和MySQL Web开发(原书第4版),LukeWelling/LauraThomson,机械工业出版社,无,"PHPandMySQLWebDevelopment,FourthEdition",武欣,2009,714,95.00元,9787111262817
+Python编程快速上手,斯维加特(AlSweigart),人民邮电出版社,让繁琐工作自动化,无,无,2016-7-1,390,CNY69.00,9787115422699
+MySQL必知必会,[英]BenForta,人民邮电出版社,无,MySQLCrashCourse,刘晓霞,2009-1,241,39.00元,9787115191120
+C语言入门经典,霍顿(IvorHorton),清华大学出版社,无,BeginningC:fromnovicetoprofessional,无,2008-4-1,571,69.80元,9787302170839
+Python编程：从入门到实践,[美]埃里克·马瑟斯,人民邮电出版社,从入门到实践,PythonCrashCourse,袁国忠,2016-7-1,459,CNY89.00,9787115428028
+C标准库,P.J.Plauger,人民邮电出版社,C标准库“圣经”,无,卢红星,2009-7,488,79.00元,9787115172860
+正则表达式必知必会,BenForta,人民邮电出版社,无,SamsTeachYourselfRegularExpressionsin10Minutes,杨涛,2007,139,29.00元,9787115164742
+Spring揭秘,王福强,人民邮电出版社,无,无,无,2009.8,680,99.00元,9787115209429
+"""笨办法""学Python",[爱尔兰]肖,人民邮电出版社,无,LearnPythontheHardWay:AVerySimpleIntroductiontotheTerrifyinglyBeautifulWorldofComputersandCode(3rdEdition),王巍巍,2014-11-1,249,CNY49.00,9787115350541
+Java解惑,布洛赫/加夫特,人民邮电出版社,无,无,陈昊鹏,2006-1,285,39.00元,9787115142412
+COM本质论,[美]DonBox,中国电力出版社,无,EssentialCOM,潘爱民,2001-8,356,49.00元,9787508306117
+C++编程规范,[美]HerbSutter/[美]AndreiAlexandrescu,人民邮电出版社,101条规则、准则与最佳实践,无,刘基诚,2006-1,216,35.00元,9787115142054
+Orange'S:一个操作系统的实现,于渊,电子工业出版社,无,无,无,2009-6,469,69.00元,9787121084423
+软件调试,张银奎,电子工业出版社,SoftwareDebugging,无,无,2008-6,1006,128.00元,9787121064074
+C语言接口与实现,（美）DavidR.Hanson,机械工业出版社,无,无,傅蓉,2004-1,379,35.00元,9787111130055
+JavaScript DOM编程艺术 （第2版）,[英]JeremyKeith/[加]JeffreySambells,人民邮电出版社,无,DOMScripting:WebDesignwithJavaScriptandtheDocumentObjectModel,杨涛,2011-4,300,49.00元,9787115249999
+Essential C++中文版,[美]StanleyB·Lippman,华中科技大学出版社,无,无,侯捷,2001-8,282,39.80元,9787560925110
+Perl语言编程,[美]LarryWall/TomChristiansen/JonOrwant,中国电力出版社,无,无,何伟平,2001-12,1102,129.00元,9787508307305
+JAVA核心技术卷2,CayS.Horstmann/GaryCornell,机械工业出版社,高级特性,无,陈昊鹏,2008-12,852,118.00元,9787111256113
+Land of Lisp,ConradBarskiM.D.,NoStarchPress,"LearntoPrograminLisp,OneGameataTime!",无,无,October2009(est.),504pages(est.),386.00元,9781593272005
+Maven实战,许晓斌,机械工业出版社,无,无,无,2010年12月,361,65.00元,9787111321545
+高等应用数学问题的MATLAB求解,薛定宇/陈阳泉,清华大学出版社,（第二版）,无,无,2008-10,442,49.00元,9787302186182
+Linux命令行与shell脚本编程大全,RichardBlum/ChristineBresnahan,人民邮电出版社,无,"LinuxCommandLineandShellScriptingBible,SecondEdition",武海峰,2012-9,619,99.00元,9787115288899
+Objective-C编程,[美]AaronHillegass,华中科技大学出版社,BigNerdRanch入门经典,Objective-CProgramming:TheBigNerdRanchGuide,夏伟频,2012-9-25,284,58.00元,9787560983233
+编程之魂,FedericoBiancuzzi/ShaneWarden,电子工业出版社,与27位编程语言创始人对话,MastermindsofProgramming,闫怀志,2010-04,400,59.80元,9787121104985
+Head First Python（中文版）,巴里（Barry.P.）,中国电力出版社,HeadFirstPython,无,林琪等,2012-3-1,457,68.00元,9787512322233
+Linux程序设计,马修,人民邮电出版社,无,无,陈健,2007-7,694,89.00元,9787115159021
+R语言编程艺术,（美）NormanMatloff,机械工业出版社,无,TheArtofRProgramming:ATourofStatisticalSoftwareDesign,陈堰平,2013-5,303,69.00,9787111423140
+深入理解Java虚拟机（第2版）,周志明,机械工业出版社,JVM高级特性与最佳实践,无,无,2013-9-1,433,79.00元,9787111421900
+程序员的呐喊,[美]SteveYegge,人民邮电出版社,无,AProgrammer'sRantings,徐旭铭,2014-5-1,190,45.00元,9787115349095
+Android编程权威指南,[美]BillPhillips/[美]BrianHardy,人民邮电出版社,无,Androidprogramming:thebignerdranchguide,王明发,2014-4,523,CNY99.00元,9787115346438
+Python科学计算,张若愚,清华大学出版社,无,无,无,2012-1,621,98.00元,9787302273608
+实用Common Lisp编程,[美]PeterSeibel,人民邮电出版社,无,PracticalCommonLisp,田春,2011-10,417,89.00元,9787115263742
+"Concepts, Techniques, and Models of Computer Programming",PeterVanRoy/SeifHaridi,TheMITPress,无,无,无,2004-2-20,936,USD78.00,9780262220699
+汇编语言程序设计,RichardBlum,机械工业出版社,无,无,马朝晖,2006-1,409,48.00元,9787111175322
+系统程序员成长计划,李先静,人民邮电出版社,无,无,无,2010-04,272,45.00,9787115224019
+领域特定语言,[美]MartinFowler,机械工业出版社华章公司,无,Domain-SpecificLanguages,ThoughtWorks中国,2013-3,488,89.00元,9787111413059
+调试九法,DavidJ.Agans,人民邮电出版社,软硬件错误的排查之道,Debugging:The9IndispensableRulesforFindingEventheMostElusiveSoftwareandHardwareProblems,赵俐,2010-12-7,142,35.00元,9787115240576
+Java语言程序设计,（美）Y.DanielLiang,机械工业出版社,基础篇(原书第8版),"IntroductiontoJavaProgramming,EighthEdition",李娜,2011-6,604,75.00元,9787111340812
+Android系统源代码情景分析,罗升阳,电子工业出版社,无,无,无,2012-10,830,109.00元,9787121181085
+Python Tutorial,"GuidoVanRossum/FredL.Drake,Jr(editor)",IuniverseInc,无,无,无,April2000,140,USD12.95,9781583483756
+Python标准库,DougHellmann,机械工业出版社华章公司,无,ThePythonStandardLibrarybyExample,刘炽,2012-6-15,1040,139.00元,9787111378105
+可爱的Python,哲思社区,电子工业出版社,无,无,无,2009-9,484,55.00元,9787121085147
+高质量程序设计指南,林锐/韩永泉,电子工业,—C++/C语言,无,无,2007-5,394,39.80元,9787121041143
+Linux程序设计,NeilMatthew/RichardStones,人民邮电出版社,第4版,BeginningLinuxProgramming,陈健,201005,642,99.00元,9787115228215
+深入Java虚拟机(原书第2版),[美]文纳斯,机械工业出版社,无,InsidetheJavaVirtualMachine,曹晓钢,2003-9,461,58.00元,9787111128052
+编程语言实现模式,TerenceParr,华中科技大学出版社,无,LanguageImplementationPatterns:CreateYourOwnDomain-SpecificandGeneralProgrammingLanguages,李袁奎,2012-3-20,388,72.00元,9787560977003
+The Nature of Code,DanielShiffman,TheNatureofCode,SimulatingNaturalSystemswithProcessing,无,无,2012-12-13,520,GBP19.95,9780985930806
+深入理解C#（第2版）,JonSkeet,人民邮电出版社,无,"C#inDepth,SecondEdition",周靖,2012-1,445,79.00元,9787115269249
+Android开发精要,范怀宇,机械工业出版社,无,无,无,2012-8,356,69.00元,9787111390589
+深入PHP,MattZandstra,人民邮电出版社,面向对象、模式与实践（第2版）,"PHPObjects,PatternsandPractice",陈浩,2010-5,383页,59.00元,9787115225788
+自制编程语言,［日］前桥和弥,人民邮电出版社,无,无,刘卓,2013-11,396,79.00,9787115333209
+Head First HTML与CSS（第2版）,ElisabethRobson/EricFreeman,中国电力出版社,无,HeadFirstHTMLandCSS,徐阳,2013-9,762,98.00元,9787512344778
+高效能程序员的修炼,[美]JeffAtwood,人民邮电出版社,软件开发远不止是写代码那样简单……,EffectiveProgramming:MoreThanWritingCode,陆其明,2013-7,268,49,9787115318985
+软件开发者路线图,DaveH.Hoover/AdewaleOshineye,机械工业出版社,从学徒到高手,ApprenticeshipPatterns:GuidancefortheAspiringSoftwareCraftsman,王江平,2010年9月,185,35.00元,9787111310068
+嗨翻C语言,[美]DavidGriffiths/[美]DawnGriffiths,人民邮电出版社,无,HeadFirstC,程亦超,2013-9,630,99.00,9787115318848
+你必须知道的495个C语言问题,SteveSummit,人民邮电出版社,无,无,孙云,2009-2,262,45.00元,9787115194329
+Think Python,AllenB.Downey,O'ReillyMedia,HowtoThinkLikeaComputerScientist,无,无,2012-8-23,300,GBP29.99,9781449330729
+Accelerated C++中文版,AndrewKoenig/BarbaraE.Moo,中国电力出版社,无,无,覃剑锋,2003-12,340,39.50元,9787508318196
+编程之道,GeoffreyJames,电子工业出版社,无,无,郭海,2006,344,28.00元,9787121023446
+从Python开始学编程,Vamei,电子工业出版社,无,无,无,2016-11-24,208,CNY49.00,9787121301995
+Programming in Scala,MartinOdersky/LexSpoon/BillVenners,ArtimaInc,AComprehensiveStep-by-stepGuide,无,无,2008-11-26,无,USD49.99,9780981531601
+Let Over Lambda,DougHoyte,Lulu.com,无,无,无,2008-4-2,384,USD39.95,9781435712751
+WINDOWS游戏编程大师技巧<第2版>(附光盘),AndreLamothe,中国电力出版社,无,"TricksoftheWindowsGameProgrammingGurus,2ndEdition",沙鹰,2004-2-1,807,89.00元,9787508318271
+GitHub入门与实践,[日]大塚弘记,人民邮电出版社,无,GitHub実践入門,支鹏浩,2015-7,280,39.00元,9787115394095
+我编程，我快乐,[美]ChadFowler,人民邮电出版社,程序员职业规划之道,ThePassionateProgrammer:CreatingARemarkableCareerInSoftwareDevelopment,于梦瑄,2010-8,202,39.00元,9787115233523
+编程卓越之道,HydeR,电子工业出版社,第一卷：深入理解计算机,WriteGreatCode:Volume1:UnderstandingtheMachine,韩东海,2006-4-1,445,49.80,9787121024047
+Programming From The Ground Up,JonathanBartlett,BartlettPublishing,无,无,无,2004-07-31,332,USD34.95,9780975283844
+高性能JavaScript,[美]尼古拉斯·泽卡斯,电子工业出版社,无,HighPerformanceJavaScript,丁琛,2010-11,210,49.00元,9787121119323
+Python编程（第三版·英文影印版）,[美]MarkLutz,东南大学出版社,无,无,无,2006,1596,138.00元,9787564105709
+The Go Programming Language,BrianW.Kernighan/AlanDonovan,Addison-WesleyProfessional,无,无,无,2015-11-23,320,USD39.99,9780134190440
+C++GUI Qt4编程,JasminBlanchette/MarkSummerfield,电子工业出版社,无,无,闫锋欣,2008-8,492,65.00元,9787121070389
+C程序设计,谭浩强,清华大学出版社,新世纪计算机基础教育丛书,无,无,2005-7-1,378,26.00元,9787302108535
+七周七并发模型,PaulButcher,人民邮电出版社,无,SevenConcurrencyModelsinSevenWeeks:WhenThreadsUnravel,黄炎,2015-3,244,49.00元,9787115386069
+啊哈!算法,啊哈磊,人民邮电出版社,无,无,无,2014-6-1,246,45.00元,9787115354594
+Head First Object-Oriented Analysis and Design,BrettD.McLaughlin/GaryPollice/DaveWest,O'ReillyMedia,ABrainFriendlyGuidetoOOA&D,无,无,2006-12-4,636,USD49.99,9780596008673
+C语言的科学和艺术,[美]罗伯茨,机械工业出版社,无,无,翁惠玉,2005-3,498,55.00元,9787111159711
+算法竞赛入门经典（第2版）,刘汝佳,清华大学出版社,无,刘汝佳,无,2014-6-1,464,CNY49.80,9787302356288
+编程匠艺,"（美）古德利弗（Goodliffe,P.）著",电子工业出版社,编写卓越的代码,CodeCraft:ThePracticeofWritingExcellentCode,韩江，陈玉译,2008-9,582,79.00元,9787121069802
+计算机程序设计艺术,（美,机械工业出版社,无,无,无,2006-7,267,45.00元,9787111177739
+The Seasoned Schemer,DanielP.Friedman/MatthiasFelleisen,TheMITPress,SeasonedSchemer,无,无,1995-12-21,224,USD38.00,9780262561006
+程序是怎样跑起来的,[日]矢泽久雄,人民邮电出版社,无,无,李逢俊,2015-4,272,39.00元,9787115385130
+编译原理,AlfredV.Aho/MonicaS.Lam/RaviSethi/JeffreyD.Ullman,机械工业出版社,原理、技术与工具,无,赵建华,2008年12月,631,89.00元,9787111251217
+编程大师访谈录,SusanLammers,人民邮电出版社,无,ProgrammersatWork,李琳骁,2012-1,357,59.00元,9787115264312
+垃圾收集,琼斯,人民邮电出版社,无,GarbageCollection:AlgorithmsforAutomaticDynamicMemoryManagement,谢之易,2004-4-1,341,45.00元,9787115120700
+C语言核心技术,PeterPrinz/TonyCrawford,机械工业出版社,无,Cinanutsbell,O'ReillyTaiWan,2007年,589,69.00元,9787111220503
+Debug Hacks中文版,吉岡弘隆/大和一洋/大岩尚宏/安部東洋/吉田俊輔,电子工业出版社,深入调试的技术和工具,DebugHacks,马晶慧,2011-8,424,69.00元,9787121140488
+OpenGL编程指南（原书第7版）,[美]DaveShreiner,机械工业出版社,无,OpenGLprogrammingguide,李军,2010-3,519,89.00元,9787111294504
+编程ING,蔡学镛,电子工业出版社,人人都能学会程序设计,编程ING：人人都能学会程序设计,无,2012-7,303,68.00元,9787121175282
+程序员的职业素养,[美]RobertC·Martin,人民邮电出版社,无,TheCleanCoder：ACodeofConductforProfessionalProgrammers,章显洲,2012-9-1,178,49.00元,9787115291578
+VC++深入详解,孙鑫,电子工业出版社,无,无,无,2006-6,767,89.00元,9787121025303
+编程卓越之道,海德,电子工业出版社,第二卷：运用底层语言思想编写高级语言代码,"WriteGreatCode,Volume2:ThinkingLow-Level,WritingHigh-Level",张菲,2007-4,617,69.00元,9787121041259
+Win32多线程程序设计,[美]JimBeveridge/RobertWiener,华中科技大学出版社,线程完全手册,无,侯捷,2002-1,453,59.80元,9787560926384
+算法精解,KyleLoudon,机械工业出版社,C语言描述,MasteringAlgorithmswithC,肖翔,2012-8,401,79.00元,9787111394266
+Python灰帽子,[美]JustinSeitz,电子工业出版社,黑客与逆向工程师的Python编程之道,GrayHatPython:PythonProgrammingforHackersandReverseEngineers,丁赟卿译,2011-3,216,39.00元,9787121129018
+Objective-C基础教程,MarkDalrymple/ScottKnaster,人民邮电出版社,无,无,高朝勤,2009-8,264,49.00元,9787115208774
+Head First Servlets & JSP（中文版）,（美）巴萨姆/（美）塞若/（美）贝茨,中国电力出版社,通过SCWCD考试之路,无,苏钰函,2006-10,854,98.00元,9787508342849
+算法竞赛入门经典,无,无,训练指南,无,无,2012-10,511,52.80元,9787302291077
+深入理解Nginx,陶辉,机械工业出版社,模块开发与架构解析,无,无,2013-4-15,584,89.00元,9787111414780
+Dive Into Python 3,MarkPilgrim,Apress,无,无,无,2009-11-6,360,USD44.99,9781430224150
+Python高级编程,TarekZiadé,人民邮电出版社,无,ExpertPythonProgramming,姚军,2010-1,306,45.00元,9787115217035
+实现模式,KentBeck,人民邮电出版社,无,无,李剑,2009-1,176,29.00元,9787115192264
+深入理解Android,邓凡平,机械工业出版社,卷I,无,无,2011-9-5,488,69.00元,9787111357629
+算法设计与分析基础,Ananylevitin,清华大学出版社,无,IntroductiontotheDesignandAnalysisofAlgorithms,潘彦,2007-1-1,409,49.00元,9787302142836
+深入剖析Tomcat,BudiKurniawan/PaulDeck,机械工业出版社华章公司,无,HowTomcatWorks:AGuidetoDevelopingYourOwnJavaServletContainer,曹旭东,2011-12-31,360,59.00元,9787111369974
+编程的修炼（中英双语）,[荷]EdsgerW.Dijkstra,电子工业出版社,无,ADisciplineofProgramming,裘宗燕,2013-7,456,79.00元,9787121202506
+Advance Bash-Scripting Guide,无,无,无,AdvancedBash-ScriptingGuide,无,无,无,无,9781430319306
+Linux/Unix设计思想,甘卡兹,人民邮电出版社,无,LinuxandtheUnixPhilosophy,漆犇,2012-3-28,168,39.00元,9787115266927
+Clojure编程,ChasEmerick/BrianCarper/ChristopheGrand,电子工业出版社,Java世界的Lisp实践,ClojureProgramming,徐明明,2013-3-26,618,99.00元,9787121197185
+代码之髓,[日]西尾泰和,人民邮电出版社,编程语言核心概念,コーディングを支える技術~成り立ちから学ぶプログラミング作法,曾一鸣,2014-8,236,45.00元,9787115361530
+Objective-C 2.0程序设计,StephenG.Kochan,机械工业出版社,无,ProgramminginObjective-C2.0(2ndEdition),张波,2009年9月,460,66.00元,9787111276869
+PHP与MySQL 5程序设计,W.JasonGilmore,人民邮电出版社,无,"BeginningPHPandMySQL5,2ndEd.",朱涛江,2007年01月,634,79.00元,9787115155092
+Head First JavaScript,MichaelMorrison,O'ReillyMedia,无,无,无,2007-12-30,652,GBP30.99,9780596527747
+编写可维护的JavaScript,扎卡斯,人民邮电出版社,无,MaintainableJavaScript,李晶,2013-4,226,55.00元,9787115310088
+More Exceptional C++中文版,[美]HerbSutter,华中科技大学出版社,40个新的工程难题、编程疑问及解决方法,无,於春景,2002-9,279,39.80元,9787560927718
+算法艺术与信息学竞赛,刘汝佳,清华大学出版社,无,无,无,2004-1,428,45.00元,9787302078005
+老码识途,韩宏,电子工业出版社,从机器码到框架的系统观逆向修炼之路,无,无,2012-8,344,56.00元,9787121173820
+Elements of Programming Interviews,AdnanAziz/Tsung-HsienLee/AmitPrakash,CreateSpaceIndependentPublishingPlatform,TheInsiders'Guide,无,无,2012-10-11,528,USD39.95,9781479274833
+C++ Concurrency in Action,AnthonyWilliams,ManningPublications,PracticalMultithreading,无,无,2012-2-28,528,USD69.99,9781933988771
+Android开发艺术探索,任玉刚,电子工业出版社,无,无,无,2015-9-1,507,CNY79.00,9787121269394
+你必须知道的.NET,王涛,电子工业出版社,无,无,无,2008-4,497,69.80元,9787121058912
+征服C指针,前桥和弥,人民邮电出版社,无,无,吴雅明,2013-2,254,49.00元,9787115301215
+The Definitive Guide to Django,AdrianHolovaty/JacobKaplan-Moss,Apress,WebDevelopmentDoneRight,无,无,2007-12-06,447,CAD45.14,9781590597255
+Game Programming Patterns,RobertNystrom,GeneverBenning,无,无,无,2014-11-2,354,USD39.95,9780990582908
+The Swift Programming Language,无,无,无,无,无,2014-6-2,无,无,9780300164695
+Effective Objective-C 2.0,MattGalloway,机械工业出版社,编写高质量iOS与OSX代码的52个有效方法,EffectiveObjective-C2.0:52SpecificWaystoImproveYouriOSandOSXPrograms,爱飞翔,2014-1,220,69.00元,9787111451297
+Instructor's Manual t/a Structure and Interpretation of Computer Programs,GeraldJaySussman,TheMITPress,无,无,无,1998-9-15,224,USD29.00,9780262692205
+明解C语言,柴田望洋,人民邮电出版社,无,无,管杰,2013-5,337,59.00元,9787115299796
+C#与.NET 3.5高级程序设计,特罗尔森,人民邮电出版社,第4版,ProC#2008andthe.NET3.5platform,朱晔,2009-3,1107,138.00元,9787115196910
+大话数据结构,程杰,清华大学出版社,无,无,无,2011-6,440,59.00元,9787302255659
+JavaScript编程精解,MarijnHaverbeke,机械工业出版社华章公司,无,EloquentJavaScript:AModernIntroductiontoProgramming,徐涛,2012-10-1,176,49.00元,9787111396659
+SQL必知必会,福达(BenForta),人民邮电出版社,（第4版）,"SamsteachyourselfSQLin10minutes,4thedition",钟鸣,2013-5-1,239,29.00元,9787115313980
+Python网络编程基础,JohnGoerzen,电子工业出版社,使用Python构建网络程序的综合指南,无,莫迟等,2007,512页,68.00元,9787121044953
+J2EE设计开发编程指南,RodJohnson,电子工业出版社,无,ExpertOne-on-OneJ2EEDesignandDevelopment,魏海萍,2003-7-1,608,64.00元,9787505387706
+深入浅出WPF,刘铁猛,中国水利水电出版社,CSDN最火爆专家博主”水之真谛”心血结晶,无,无,2010-7,288,45.00元,9787508476353
+疯狂Java讲义,李刚,电子工业出版社,无,无,无,2008-10,889,99.00元,9787121066467
+C程序设计语言,ClovisL.Tondo/SCOTTE.GIMPEL,机械工业出版社,习题解答,无,无,2004-1-1,133,15.00元,9787111129431
+Generative Design,HarmutMohnacker/BenediktGross/JuliaLaub,PrincetonArchitecturalPress,"Visualize,Program,andCreatewithProce",无,无,2012-10-1,472,USD100.00,9781616890773
+Creative Code,JohnMaeda,Thames&Hudson,AestheticsandComputation,无,无,2004-9-13,256,USD34.95,9780500285176
+C语言名题精选百则技巧篇,冼镜光,机械工业出版社,无,无,无,2005-7,491,44.00元,9787111163763
+大规模C++程序设计,JohnLakos,中国电力出版社,无,Large-ScaleC++SoftwareDesign,李师贤,2003.9,624,72.00,9787508315041
+Go语言编程,许式伟,人民邮电出版社,无,无,无,2012-8,300,49.00元,9787115290366
+C#本质论,米凯利斯,人民邮电出版社,无,EssentialC#4.0(3rdEdition),周靖,2010-9,694,99.00元,9787115233837
+我和LabVIEW,阮奇桢,北京航空航天大学出版社,一个NI工程师的十年编程经验,无,无,2009-9,412,45.00元,9787811248890
+图形程序开发人员指南,MichaelAbrash,机械工业出版社,MichaelAbrash'sGraphicsProgrammingBalckBook,无,前导工作室,1998,1064,128,9787111063964
+iPhone开发基础教程,DaveMark/JeffLaMarche,人民邮电出版社,创造销售奇迹的最新经典著作！,无,漆振,2009-4,408,65.00元,9787115197337
+游戏编程中的人工智能技术,布克兰德,清华大学出版社,无,AITechniquesforGameProgramming,吴祖增,2006-5,296,39.0,9787302125990
+Linux Shell脚本攻略,(印)拉克什曼,人民邮电出版社,无,LinuxShellScriptingCookbook,门佳,2011-11,254,49.00元,9787115264725
+Exceptional C++ Style中文版,HerbSutter,人民邮电出版社,40个新的工程难题、编程问题及解决方案的新描述,无,刘未鹏,2006-1,276,39.00元,9787115142252
+算法技术手册,GeorgeT.Heineman/GaryPollice/StanleySelkow,机械工业出版社,无,AlgorithmsinaNutshell,杨晨,2010-3,333,55.00元,9787111286745
+LINUX系统编程,RobertLove,东南大学出版社,LINUX系统编程,无,O'ReillyTaiwan公司,2009-7,382,56.00元,9787564115197
+代码阅读方法与实践,斯平内利斯,清华大学出版社,无,CodeReading:TheOpenSourcePerspective,赵学良,2004-03-01,326,45.00元,9787302080725
+编写高质量代码：改善Python程序的91个建议,张颖/赖勇浩,机械工业出版社,无,无,无,2014-6,272,59.00元,9787111467045
+Ruby on Rails 3 Tutorial,MichaelHartl,Addison-WesleyProfessional,LearnRailsbyExample,无,无,2010-12-16,576,USD39.99,9780321743121
+Java 8实战,厄马(Raoul-GabrielUrma)/弗斯科(MarioFusco)/米克罗夫特(AlanMycroft),人民邮电出版社,无,无,陆明刚,2016-4-1,349,CNY79.00,9787115419347
+Real World Haskell,BryanO'Sullivan/JohnGoerzen/DonStewart,O'ReillyMedia,CodeYouCanBelieveIn,无,无,2008-12-01,720,CAD49.99,9780596514983
+Linux命令、编辑器与Shell编程,MarkG.Sobell,清华大学出版社,无,无,杨明军,2007年02,792,98.00元,9787302139447
+深入解析Windows操作系统,"（美）罗斯（Russinovich,M.E.）/（美）所罗门（Solomon,D.A.）",电子工业出版社,无,无,潘爱民,2007-4,941,99.00元,9787121039690
+Python入门经典,(美)WilliamF.Punch/RichardEnbody,机械工业出版社,以解决计算问题为导向的Python编程实践,ThePracticeofComputingUsingPython,张敏,2012-8-1,452,79.00元,9787111394136
+爱上Processing,GaseyReas&BenFry,人民郵電出版社,GettingStartedwithProcessing,无,陈思明,2012-4,190,38.00元,9787115276933
+JavaScript设计模式与开发实践,曾探,人民邮电出版社,无,无,无,2015-5,294,59.00元,9787115388889
+Node.js开发指南,郭家寶（BYVoid）,人民邮电出版社,无,无,无,2012-7,178,45.00元,9787115283993
+软件调试的艺术,NormanMatloff/PeterJaySalzman,人民邮电出版社,Linux/Unix平台软件调试权威著作,"TheArtofDebuggingwithGDB,DDD,andEclipse",张云,2009-11,216,39.00元,9787115213969
+C++大学教程,[美]H.M.Deitel，,电子工业出版社,无,C++HowtoProgram(5thEdition),张引,2007-2,1078,98.00元,9787121026577
+C语言参考手册(原书第5版),SamuelP.Harbison/GuyL.Steele,机械工业出版社,无,C:AReferenceManual,邱仲潘,2004-2-1,412,39.00元,9787111122197
+算法的乐趣,王晓华,人民邮电出版社,无,无,无,2015-4,420,79.00元,9787115385376
+Effective Python,布雷特·斯拉特金（BrettSlatkin）,机械工业出版社,编写高质量Python代码的59个有效方法,EffectivePython,爱飞翔,2016-1,无,59,9787111523550
+Processing互动编程艺术,谭亮,电子工业出版社,无,无,无,2011-6,220,39.00元,9787121134630
+高级Perl编程,[美]SriramSrinivasan,中国电力出版社,无,AdvancedPerlProgramming,Perlish,2001-1,485,69.00元,9787508305127
+写给大家看的C语言书,佩里(GregPerry),人民邮电出版社,无,无,刘艳娟,2010-1-1,308页,39.00元,9787115216359
+R Cookbook,PaulTeetor,O'ReillyMedia,无,无,无,2011-3-22,436,USD39.99,9780596809157
+Shell脚本学习指南,ArnoldRobbins/NelsonH.F.Beebe,机械工业出版社,无,ClassicShellScripting,OReillyTaiwan公司,2009-4,494,79.00元,9787111255048
+The Effective Engineer,EdmondLau,"TheEffectiveBookshelf,PaloAlto,CA.",HowtoLeverageYourEffortsinSoftwareEngineeringtoMakeaDisproportionateandMeaningfulImpact,无,无,2015-3-19,247,USD39.00,9780996128100
+程序员应该知道的97件事,KevlinHenney,电子工业出版社,无,无,李军译,2010-9,256,45.00元,9787121117565
+C++高级编程,索尔特,机械工业出版社,无,ProfessionalC++,刘鑫,2006-1,687,88.00元,9787111177784
+MATLAB实用教程,穆尔(HollyMoore),电子工业出版社,无,无,高会生刘童娜李聪聪,2010-1-1,470,59.00元,9787121101793
+Google Android开发入门指南,王世江,人民邮电出版社,无,无,无,2009-11,281,45.00元,9787115213945
+C++必知必会,杜赫斯特,人民邮电出版社,无,无,荣耀,2006-1,202,29.00元,9787115141019
+"Is Parallel Programming Hard, And, If So, What Can You Do About It?",无,无,无,PaulE.McKenney,无,无,401,无,9780954899332
+代码优化,（美）KrisKaspersky,电子工业出版社,有效使用内存,CodeOptimization:EffectiveMemoryUsage,谭明金,2004-10,348,48.00元,9787121003516
+算法I～IV（C++实现）――基础、数据结构、排序和搜索（第三版）,[美]RobertSedgewick,中国电力出版社,无,无,张铭泽,2004-2-1,532,55.00,9787508318080
+Head First HTML5 Programming（中文版）,埃里克•弗里曼(EricFreeman)/伊丽莎白•罗布森(ElisabethRobson),中国电力出版社,无,无,无,2012-9,579,78.00元,9787512329355
+Getting Started with Processing,CaseyReas/BenFry,"MakerMedia,Inc",AHands-onIntroductiontoMakingInteractiveGraphics,无,无,2010-7-5,210,USD19.99,9781449379803
+COM技术内幕-微软组件对象模型,(美)DaleRogerson,清华大学出版社,无,无,杨秀章,1999-1,301,50.00元,9787302033202
+高质量程序设计艺术,斯皮内利斯,人民邮电出版社,无,无,韩东海,2008-1,384,55.00元,9787115167934
+C++程序设计,谭浩强,清华大学出版社,无,无,无,2004-6-1,485,36.00元,9787302085997
+游戏编程全接触,（美）MikeMcShaffry,人民邮电出版社,无,GameCodingComplete,无,2006-1,387,48.00元,9787115132192
+HTTP Developer's Handbook,ChrisShiflett,SamsPublishing,无,无,无,2003-3-29,312,USD39.99,9780672324543
+Purely Functional Data Structures,ChrisOkasaki,CambridgeUniversityPress,无,无,无,1999-6-13,232,USD49.99,9780521663502
+Erlang/OTP并发编程实战,[美]MartinLogan/[美]EricMerritt/[瑞典]RichardCarlsson,人民邮电出版社,无,ErlangandOTPinAction,连城,2012-7-12,356,79.00元,9787115285591
+Head First C#,AndrewStellman/JenniferGreene,O'ReillyMedia,无,无,无,2007-12-6,784,USD49.99,9780596514822
+重构,JayFields/ShaneHarvie/MartinFowler,机械工业出版社,Ruby版,无,徐旭铭,2010,294,49.00元,9787111300786
+算法图解,[美]AdityaBhargava,人民邮电出版社,无,无,袁国忠,2017-3,196,49.00元,9787115447630
+Python参考手册（第4版）,DavidM.Beazley,人民邮电出版社,无,PythonEssentialReference，4E,谢俊,2010-12,540,89.00元,9787115242594
+Why Programs Fail,泽勒,电子工业出版社,系统化调试指南,WhyProgramsFail:AGuidetoSystematicDebugging,王咏武,2007-3,406,59.00元,9787121036866
+Java入门1•2•3,臧萌,清华大学出版社,一个老鸟的Java学习心得,无,无,2010-5-1,615,69.00元,9787302217831
+Go Web编程,谢孟军,电子工业出版社,无,无,无,2013-6-1,329,65.00元,9787121200915
+Android 源码设计模式解析与实战,何红辉/关爱民,人民邮电出版社,无,无,无,2015-11,366,79.00元,9787115406712
+基于MVC的JavaScript Web富应用开发,麦卡劳(AlexMacCaw),电子工业出版社,无,JavaScriptWebApplications,李晶,2012-5,282,59.00元,9787121109560
+High Performance Python,MichaGorelick/IanOzsvald,O'ReillyMedia,PracticalPerformantProgrammingforHumans,无,无,2014-9-10,380,USD39.99,9781449361594
+游戏开发中的人工智能,DavidM.Bourg/GlennSeemann,东南大学出版社,无,AIforGameDevelopers,O'ReillyTaiwan公司,2006,369,48.00元,9787564105075
+Python语言及其应用,[美]BillLubanovic,人民邮电出版社,Python语言及其应用,无,丁嘉瑞,2016-1,404,79.00元,9787115407092
+The AWK Programming Language,AlfredV.Aho/BrianW.Kernighan/PeterJ.Weinberger,Pearson,无,无,无,1988-1-11,210,USD151.40,9780201079814
+JavaScript异步编程,TrevorBurnham,人民邮电出版社,设计快速响应的网络应用,AsyncJavaScript:BuildMoreResponsiveAppswithLessCode,许青松,2013-6,118,32.00元,9787115316578
+C#高级编程(第4版),ChristianNagelBillEvjenJayGlynn等,清华大学出版社,无,无,李敏波,2006-10,1191,128.00元,9787302138037
+格蠹汇编,张银奎,电子工业出版社,软件调试案例集锦,无,无,2013-3-1,461,66.00元,9787121196072
+Imperfect C++中文版,威尔逊,人民邮电出版社,PracticalSolutionsforReal-LifeProgramming,无,荣耀,2006-1,591,75.0,9787115136848
+Flash ActionScript 3殿堂之路,孙颖,电子工业出版社,无,无,无,2007-09,446,53.80元,9787121048838
+程序员实用算法,AndrewBinstock/JohnRex,机械工业出版社,无,PracticalAlgorithmsforProgrammers,陈宗斌,2009-9,437,65.00元,9787111272960
+Java JDK6学习笔记,林信良,清华大学出版社,无,无,无,2007-4,572,59.90元,9787302149958
+Go语言学习笔记,雨痕,电子工业出版社,无,无,无,2016-6,468,89,9787121291609
+游戏开发物理学,DavidM.Bourg,电子工业出版社,无,PhysicsforGameDevelopers,O'ReillyTaiwan公司,2004-1,337,48.00元,9787121002083
+多处理器编程的艺术,MauriceHerlihy/NirShavit,机械工业出版社,无,TheArtofMultiprocessorProgramming,金海,2009-8,356,59.00元,9787111268055
+两周自制脚本语言,[日]千叶滋,人民邮电出版社,无,无,陈筱烟,2014-6,300,59.00元,9787115355645
+Android应用性能优化,[法]HervéGuihot,人民邮电出版社,无,ProAndroidAppsPerformanceOptimization,白龙,2012-10,226,49.00元,9787115272416
+啊哈C！思考快你一步,啊哈磊,电子工业出版社,用编程轻松提升逻辑力,小学生坐在马桶上都能读懂的C语言编程入门书,无,2013-9,200,39.00元,9787121213366
+代码之道,EricBrechner,机械工业出版社,微软开发项目大揭密,无,陆其明,2009-1,192,36.00元,9787111251675
+Python Web开发实战,董伟明,电子工业出版社,无,无,无,2016-9-15,504,105,9787121297335
+程序设计抽象思想,EricS.Roberts/闪四清,清华大学出版社,C语言描述,无,闪四清,2005-6,665,78.00元,9787302101659
+时间触发嵌入式系统设计模式,MichaelJ.Pont,中国电力出版社,使用8051系列微控制器开发可靠应用,无,周敏,2004-7-1,784,85.0,9787508322063
+Boost程序库完全开发指南,罗剑锋,电子工业出版社,深入C++“准”标准库,无,无,2010-9,578,79.00元,9787121115776
+21天学通C语言,BradleyL.Jones/PeterAitken,人民邮电出版社,无,无,信达工作室,2003-3-1,512,52.00元,9787115111449
+挑战编程,无,无,无,ProgrammingChallenges:TheProgrammingContestTrainingManual,刘汝佳,2009-7,302,39.00元,9787302197973
+深入理解C++11,MichaelWong/IBMXL编译器中国开发团队,机械工业出版社,C++11新特性解析与应用,无,无,2013-6,328,69.00元,9787111426608
+Python 编程金典,P.J.Deitel/J.P.Liperi/B.A.Wiedermann/H.M.Deitel,清华大学出版社,无,无,无,2003-6,596,88.00元,9787302066422
+程序员代码面试指南：IT名企算法与数据结构题目最优解,左程云,电子工业出版社,IT名企算法与数据结构题目最优解,无,无,2015-9,532,79.00元,9787121270116
+软件框架设计的艺术,[捷]JaroslavTulach,人民邮电出版社,无,PracticalAPIDesign:ConfessionsofaJavaFrameworkArchitect,王磊,2011-3,388,75.00元,9787115248497
+Intermediate Perl,RandalL.Schwartz/TomPhoenix/briandfoy,O'ReillyMedia,无,无,无,2006-3-15,280,USD39.99,9780596102067
+Practical Java中文版,（美）PeterHaggar,中国电力出版社,中文版,无,侯捷,2003-1,278,46.00元,9787508307398
+JAVA2核心技术，卷II,[美]CayS.Horstma,机械工业,无,无,陈昊鹏,2006-3,842,108.00元,9787111179016
+PHP高级程序设计,KevinMcArthur,人民邮电出版社出版,模式、框架与测试,"ProPHP:Patterns,Frameworks,TestingandMore",汪泳,2009.7,300,45.00元,9787115193179
+MATLAB编程,查普曼,科学出版社,第2版,无,无,2010-6,500,41.00元,9787030111395
+LINUX与UNIX Shell编程指南,[美]（D.坦思,机械工业出版社,无,无,无,2000-1,357,38.00元,9787111080411
+Java面向对象编程,孙卫琴,电子工业出版社,无,无,无,2006-7,625,65.80元,9787121025389
+Ajax基础教程,（美）阿斯利森/（美）舒塔/金灵,人民邮电出版社,无,无,金灵,2006-02-01,253,35.00元,9787115144812
+PHP和MySQL Web应用开发核心技术,温施耐德,机械工业出版社,无,无,马朝晖,2006-9,628,78.00元,9787111192367
+JavaScript编程全解,［日］井上诚一郎/［日］土江拓郎/［日］滨边将太,人民邮电出版社,无,无,陈筱烟,2013-12,420,79.00,9787115333414
+POSIX多线程程序设计,[美]DavidR.Buten,中国电力出版社,无,ProgrammingwithPOSIXThreads,无,2003-1,321,39.00元,9787508313955
+Flask Web开发：基于Python的Web应用开发实战,[美]MiguelGrinberg,人民邮电出版社,无,无,安道,2014-12,224,59.00元,9787115373991
+疯狂Android讲义,李刚,电子工业出版社,无,无,无,2011-6,689,89.00元,9787121135767
+TCP/IP详解 卷2：实现,[美]史蒂文斯,机械工业出版社,无,无,陆雪莹,2004-1,901,78.00元,9787111075677
+趣学Python编程,JasonBriggs,人民邮电出版社,无,PythonforKids:APlayfulIntroductiontoProgramming,尹哲,2014-3,268,45.00元,9787115335951
+逆向工程核心原理,[韩]李承远,人民邮电出版社,无,无,武传海,2014-4-25,700,109.00元,9787115350183
+快学Scala,[美]C.S.霍斯曼,电子工业出版社,无,ScalafortheImpatient,高宇翔,2012-10,408,79.00元,9787121185670
+Fortran95程序设计,彭国伦,中国电力出版社,无,无,无,2002-9,582,59.00元,9787508310626
+C++语言99个常见编程错误,StephenC.Dewhurst,清华大学出版社,避免编码和设计中的常见问题,无,高博,2009,275,39.00元,9787302199397
+C#入门经典,[美]KarliWatson/ChristianNagel,清华大学出版社,无,BeginningVisualC#2005,齐立波,2006-5,864,98.00元,9787302127352
+Python高手之路,JulienDanjou,人民邮电出版社,无,TheHacker'sGuidetoPython,王飞龙,2015-5,202,49.00元,9787115387134
+iOS编程（第4版）,[美]ChristianKeur/[美]AaronHillegass/[美]JoeConway,华中科技大学出版社,无,"iOSProgarmming,4thEdition",丁道骏,2015-1-1,560,99.90,9787560997902
+Programming Python,[美]MarkLutz,O'ReillyMedia,3rdedition,无,无,2006-8-30,1552,USD59.99,9780596009250
+Java Nio,RonHitchens,O'ReillyMedia,无,无,无,2002-8-15,312,USD39.99,9780596002886
+游戏编程精粹 1,德洛拉（MarkA.Deloura）,人民邮电出版社,无,无,王淑礼,2004-10,540,80.00元,9787115125873
+python绝技：运用python成为顶级黑客,[美]TJO'Connor,电子工业出版社,运用Python成为顶级黑客,ViolentPython,崔孝晨,2016-1,264,79.00元,9787121277139
+计算机系统要素,NoamNisan/ShimonSchocken,电子工业出版社,从零开始构建现代计算机,TheElementsofComputerSystems:BuildingaModernComputerfromFirstPrinciples,周维,2007-01-01,325,45.00元,9787121033360
+MFC Windows程序设计,[美]JeffProsise,清华大学出版社,无,"ProgrammingWindowswithMFC,2ndEdition",北京博彦科技发展有限责任公司,2001-9,1166,128.00元,9787900631923
+Wxpython in Action,NoelRappin/RobinDunn,ManningPublications,无,无,无,2006-3-1,552,USD49.95,9781932394627
+Modern PHP（中文版）,JoshLockhart,中国电力出版社,无,无,安道,2015-9,219,39,9787512380936
+写给大家看的C++书,LarryUllman/AndreasSigner,人民邮电出版社,无,无,杨涛等,2009.7,324,49.00元,9787115195180
+Python编程实战,[美]MarkSummerfield,机械工业出版社,运用设计模式、并发和程序库创建高质量程序,"PythoninPractice:CreateBetterProgramsUsingConcurrency,Libraries,andPatterns",爱飞翔,2014-8,252,69.00元,9787111473947
+C#图解教程,[玻利维亚]索利斯,人民邮电出版社,无,IllustratedC#2008,苏林,2009-1,445,65.00元,9787115187734
+PHP经典实例,（美）斯克拉/（美）切贝特伯格,中国电力出版社,无,"PHPCookbook,2ndEd",李松峰,2009-10,816,98.00元,9787508386089
+GNU Make项目管理（第三版）,(美)RobertMecklenburg,东南大学出版社,无,ManagingProjectswithGNUMake,O'ReillyTaiwan,2006-7,288,37.00,9787564103521
+黑客,StevenLevy,机械工业出版社华章公司,计算机革命的英雄(二十五周年新版),Hackers:HeroesoftheComputerRevolution-25thAnniversaryEdition,赵俐,2011-10-31,352,69.00元,9787111358404
+深入分析Java Web技术内幕（修订版）,许令波,电子工业出版社,无,无,无,2014-8-1,464,CNY79.00,9787121232930
+写给大忙人看的Java SE 8,【美】CayS.Horstmann（凯.S.霍斯曼）编,电子工业出版社,无,无,张若飞,2014-11,240,59.00元,9787121227288
+Java大学简明教程,戴特尔,电子工业出版社,实例程序设计,无,张琛恩,2005-2,835,72.00元,9787121006401
+Autotools,JohnCalcote,NoStarchPress,"APractioner'sGuidetoGNUAutoconf,Automake,andLibtool",无,无,2010-7-20,360,USD44.95,9781593272067
+The Ruby Way中文版,富尔顿(HalFulton),人民邮电出版社,无,无,陈秋萍,2007年11月1日,532页,79.00元,9787115166692
+统计思维：程序员数学之概率统计,AllenB.Downey,人民邮电出版社,程序员数学之概率统计,ThinkStats:ExploratoryDataAnalysis,张建锋,2013-5,160,29.00元,9787115317377
+"Essentials of Programming Languages, 3rd Edition",DanielP.Friedman/MitchellWand,TheMITPress,无,无,无,2008-04-30,416,USD65.00,9780262062794
+The Algorithm Design Manual,StevenSSkiena,Springer,无,无,无,2011-11-14,730,GBP55.07,9781848000698
+Advanced Linux Programming,CodeSourceryLLC/MarkL.Mitchell/AlexSamuel/JeffreyOldham,NewRiders,无,无,无,2001,340,USD45.00,9780735710436
+Effective C# 中文版,BillWagner,人民邮电出版社,改善C#程序的50种方法,EffectiveC#:50SpecificWaystoImproveYourC#,李建忠,2007-5,304,49.00元,9787115158888
+程序员的数学3,[日]平冈和幸/[日]堀玄,人民邮电出版社,线性代数,无,卢晓南,2016-3,384,79.00元,9787115417749
+游戏编程入门,莫里森,人民邮电出版社,无,BeginningGameProgramming,无,2005-9,377,49.00元,9787115136602
+Java开发实战经典,李兴华编著,清华大学出版社,无,无,无,2009-8,831,79.80元,9787302202615
+C#和.NET 2.0实战,PatrickSmacchia,人民邮电出版社,平台、语言与框架,无,施凡,2008-1,684,99.00元,9787115166203
+PHP程序设计,勒道夫,电子工业出版社,无,"ProgrammingPHP,2ndEd",陈浩,2009-3,521,80.00元,9787121038709
+Head First Programming,DavidGriffiths/PaulBarry,O'ReillyMedia,Alearner'sguidetoprogrammingusingthePythonlanguage,无,无,2009-12-4,442,USD49.99,9780596802370
+Learn You a Haskell for Great Good!,MiranLipovaca,NoStarchPress,AGuideforBeginners,无,无,2010,400,USD44.95,9781593272838
+从问题到程序,裘宗燕,机械工业出版社,程序设计与C语言引论,无,无,2005-9-1,415,36.00元,9787111167563
+Java 8函数式编程,[英]RichardWarburton,人民邮电出版社,无,无,王群锋,2015-3,148,39.00元,9787115384881
+Ruby Under a Microscope,PatShaughnessy,NoStarchPress,AnIllustratedGuidetoRubyInternals,PatShaughnessy,无,2013-11,360,USD39.95,9781593275273
+Cocoa入门,JamesDuncanDavidson/AppleInc.,O'Reilly,使用Objective-C,无,"彭舰,张磊,李征,琚生根",2008-2,353,39.00元,9787508365619
+GNU Emacs Lisp 编程入门,(美)RobertJ.Chassell,机械工业出版社,无,无,无,2001-5,216,38.00元,9787111088622
+Android基础教程,[美]EdBurnette,人民邮电出版社,你的第一本Android书,"Hello,Android:IntroducingGoogle'sMobileDevelopmentPlatform",高朝勤,2009-11,196,39.00元,9787115215369
+Lisp in Small Pieces,ChristianQueinnec,CambridgeUniversityPress,无,无,"Callaway,Kathleen",2003-12-04,536,USD80.00,9780521545662
+Clojure程序设计,哈罗威(StuartHalloway)/拜卓(AaronBedra),人民邮电出版社,无,ProgrammingClojure，2ndE,温瑞云,2013-4-1,253,49.00元,9787115308474
+细说PHP,高洛峰,电子工业出版社,无,无,无,2009-10,649,79.00元,9787121094415
+Windows编程启示录,RaymondChen,机械工业出版社,TheOldNewThing:PracticalDevelopmentThroughouttheEvolutionofWindows,无,聂雪军,2007,335,49.00元,9787111219194
+琢石成器,罗云彬,电子工业出版社,Windows环境下32位汇编语言程序设计,无,无,2009-6,733,89.00元,9787121086632
+Advanced Bash Scripting Guide 5.3 Volume 2,MendelCooper,Lulu.com,无,无,无,2008-07-30,无,USD30.00,9781435752191
+设计模式解析,ALANSHALLOWAY/JAMESR.TROTT,人民邮电出版社,ANewPerspectiveonObject-OrientedDesign,DesignPatternsExplained:ANewPerspectiveonObject-OrientedDesign,徐言声,2006-10,296,45.00元,9787115150950
+API Design for C++,MartinReddy,MorganKaufmann,无,无,无,2011-2-18,472,USD59.95,9780123850034
+jQuery,EarleCastledine/CraigSharkie,SitePoint,NovicetoNinja,无,无,2010-02-28,407,USD39.95,9780980576856
+Exceptional C++中文版,[法]让-保罗·萨特,中国电力出版社,无,无,卓小涛,2003-3,220,35.00元,9787508314853
+Java程序员修炼之道,[英]BenjaminJ.Evans/[荷兰]MartijnVerburg,人民邮电出版社,无,Thewell-groundedJavadeveloper:vitaltechniquesofJava7andpolyglotprogramming,吴海星,2013-7,395,89.00元,9787115321954
+GAE编程指南,DanSanderson,机械工业出版社华章公司,无,ProgrammingGoogleAppEngine,唐学韬,2010-12-1,368,65.00元,9787111314523
+Objective-C高级编程,坂本一树(KazukiSakamoto)/古本智彦(TomohikoFurumoto),人民邮电出版社,iOS与OSX多线程和内存管理,PromultithreadingandmemorymanagementforiOSandOSX,黎华,2013-6-1,186,CNY49.00,9787115318091
+Java程序设计语言,"[美]KenArnold,JamesGosling,DavidHolmes",人民邮电出版社,无,"TheJavaProgrammingLanguage,4thEdition",陈昊鹏,2006-11,513,69.00元,9787115152978
+学习bash,CameronNewham/BillRosenblatt,机械工业出版社,"LearningthebashShell,SecondEdition",LearningthebashShell,徐炎,2003-1-1,356,45.00,9787111107231
+魔兽世界编程宝典,JamesWhiteheadII/BryanMcLemore/MatthewOrlando,清华大学出版社,WorldofWarcraftAddons完全参考手册,无,杨柏林,2010-6,870,118.00元,9787302222392
+iPhone开发秘籍 （第2版）,[美]EricaSadun,人民邮电出版社,无,TheiPhoneDeveloper’sCookbook:BuildingApplicationswiththeiPhoneSDK3.0,张彩霞,2010-11,680,99.00元,9787115240019
+程序员面试攻略,蒙干,机械工业出版社,无,无,王海鹏,2007-12,217,29.00元,9787111226789
+七周七数据库,[美]EricRedmond,人民邮电出版社,无,SevenDatabasesinSevenWeeks:AGuidetoModernDatabasesandtheNoSQLMovement,王海鹏,2013-5-30,256,CNY59.00,9787115312242
+Android 4高级编程,"(美)迈耶(Meier,R.)著",清华大学出版社,Android权威专家撰写，经典作品最新升级版,ProfessionalAndroid4ApplicationDevelopment,佘建伟,2013-4-1,703,98.00元,9787302315582
+编程导论,[美]JohnV.Guttag,人民邮电出版社,无,IntroductiontoComputationandProgrammingUsingPython,梁杰,2015-4,284,59.00元,9787115388018
+函数式编程思维,[美]NealFord,人民邮电出版社,无,FunctionalThinking,郭晓刚,2015-8,162,49.00元,9787115400413
+Joel谈优秀软件开发方法,[美]JoelSpolsky,清华大学,无,TheBestSoftwareWritingI:SelectedandIntroducedbyJoelSpolsky,王慧,2007-7,296,39.00元,9787302146513
+零基础学Minecraft编程,MartinO''Hanlon/DavidWhale,人民邮电出版社,零基础学Minecraft编程（图文版）,AdventuresinMinecraft,中文MinecraftWiki翻译团队,2015-9-7,230,79,9787115398970
+COM原理与应用,潘爱民,清华大学出版社,无,无,无,1999-11,457,39.00,9787302022688
+元素模式,JasonMcC.Smith,电子工业出版社,无,ElementalDesignPatterns,高博,2014-7-1,335,69.00元,9787121234682
+计算机程序设计艺术：第4卷 第4册（双语版）,[美]DonaldE·Knuth,机械工业出版社,生成所有树组合生成的历史,无,苏运霖,2007-4,230,42.00元,9787111208259
+Windows图形编程,FengYuan/英宇工作室,机械工业出版社,无,无,英宇工作室,2002-4-1,804,88.00元,9787111097785
+PHP 5权威编程,(美)古曼兹等,电子工业出版社,无,PHP5PowerProgramming,简张桂,2007-12,689,90.00元,9787121050787
+Professional Android 2 Application Development,RetoMeier,Wrox,无,无,无,2010-3-1,576,USD44.99,9780470565520
+Writing Efficient Programs,JonLouisBentley,PrenticeHallPtr,无,无,无,1982-5,170,USD25.50,9780139702440
+编程高手箴言,梁肇新,电子工业出版社,无,无,无,2003-11-1,432,50.00元,9787505391413
+C程序设计教程,迪特尔,机械工业出版社,无,chowtoprogram,薛万鹏,2000-7-1,508,33.00元,9787111079521
+MacTalk 人生元编程,池建强,人民邮电出版社,无,无,无,2014-2-1,316,45,9787115342232
+C++程序设计教程,钱能,清华大学出版社,（第二版）,无,无,2005-9,551,39.50元,9787302114642
+Erlang编程指南,FrancescoCesarini/SimonThompson,机械工业出版社,无,ErlangProgramming,慕尼黑Isar工作组,2011-3,444,79.00元,9787111303251
+Java性能优化权威指南,CharlieHunt/BinuJohn,人民邮电出版社,Java性能优化权威指南,JavaPerformance,柳飞,2014-3,540,109.00元,9787115342973
+简约之美,[美]MaxKanat-Alexander,人民邮电出版社,软件设计之道,CodeSimplicity:TheScienceofDevelopment,余晟,2013-1,120,25.00元,9787115302380
+用Python写网络爬虫,[澳]理查德劳森,人民邮电出版社,无,webscrapingwithpython,李斌,2016-8-1,157,CNY45.00,9787115431790
+编写安全的代码,DavidLeBlanc/程永敬/MichaelHoward/翁海燕/朱涛江,机械工业出版社,无,WritingSecureCode,程永敬,2005-1-1,500,55.0,9787111112105
+C++模板元编程,无,无,无,"C++TemplateMetaprogramming:Concepts,Tools,andTechniquesfromBoostandBeyond",无,2010-1,277,55.00元,9787111267423
+深入理解C指针,[美]RichardReese,人民邮电出版社,无,UnderstandingandusingCpointers,陈晓亮,2014-2,204,45.00,9787115344489
+The iOS Apprentice,MatthijsHollemans,RazewareLLC,ThirdEdition:BeginningiOSDevelopmentwithSwift,无,无,2014-12-15,804,USD54.00,9780989675154
+实用算法的分析与程序设计,吴文虎王建德,电子工业出版社,无,无,无,1998-1,350,28.00元,9787505344020
+Java语言程序设计基础篇,梁,机械工业出版社,原书第5版,无,王镁,2006-8,500,58.00元,9787111190592
+Effective JavaScript,[阿根廷]赫尔曼,机械工业出版社,编写高质量JavaScript代码的68个有效方法,EffectiveJavaScript:68SpecificWaystoHarnessthePowerofJavaScript,黄博文,2014-1-1,164,CNY49.00,9787111446231
+可视化数据,BenFry,电子工业出版社,无,VisualizingData:ExploringandExplainingDatawiththeProcessingEnvironment,张羽,2009-3,360,65.00元,9787121082795
+程序员面试宝典,欧立奇/刘洋/段韬,电子工业出版社,无,无,无,2006-7,365,39.00元,9787121027895
+Head First Ajax（中文版）,莱尔(RebeccaM.Riordan)/等,中国电力出版社,无,无,无,2010-7-1,497,78.00元,9787508387918
+凌波微步(软件开发警戒案例集),王咏刚/周虹,清华大学出版社,无,无,无,2002-11-1,420,42.00,9787900643681
+Web编程入门经典,达科特(JonDuckett),清华大学出版社,HTML、XHTML和CSS,"BeginningWebProgrammingwithHTML,XHTML,andCSS",杜静,2010-1-1,636,79.80元,9787302215974
+JavaScript面向对象精要,[美]尼古拉斯·泽卡斯,人民邮电出版社,无,ThePrinciplesOfObject-OrientedJavaScript,胡世杰,2015-4,100,39.00,9787115383846
+程序员的数学2,平冈和幸/堀玄,人民邮电出版社,概率统计,无,陈筱烟,2015-8-1,405,CNY79.00,9787115400512
+Perl最佳实践,DamianConway,东南大学出版社,无,无,无,2006-4,517,74.00元,9787564101633
+程序员的修炼,JeffAtwood,人民邮电出版社,从优秀到卓越,HowToStopSuckingAndBeAwesomeInstead,陆其明,2014-4,207,45.00元,9787115347824
+数据结构,霍罗威茨,机械工业出版社,无,FundamentalsofDataStructuresinC,无,2006-7-1,376,48.00元,9787111187981
+C++ Primer（第4版）习题解答,蒋爱军、李师贤、梅晓勇编,人民邮电出版社,无,无,无,2007-2,343,45.00元,9787115155108
+计算机程序设计艺术（第2卷）,[美]DonaldE·Knuth,国防工业出版社,半数值算法,无,苏运霖,2002-8,760,98.00元,9787118027075
+网络游戏核心技术与实战,中嶋谦互,人民邮电出版社,无,无,毛姝雯,2014-4,443,99.00元,9787115349354
+Clean Code,罗伯特·马丁,电子工业,CleanCode,无,无,2012-2,465,79.00元,9787121155055
+理解专业程序员,[美]杰拉尔德·温伯格,清华大学出版社,无,UnderstandingtheProfessionalProgrammer,刘天北,2006-7,182,25.00元,9787302129943
+苹果开发之Cocoa编程,AaronHillegas,电子工业出版社,无,无,钱友才陈勇王健,2009年7月,460页,65.00元,9787121092398
+Android应用开发揭秘,杨丰盛,机械工业出版社,无,无,无,2010-1,515,69.00元,9787111291954
+Linux多线程服务端编程,陈硕,电子工业出版社,使用muduoC++网络库,无,无,2013-1-15,610,89.00元,9787121192821
+Arduino Cookbook,MichaelMargolis,O'ReillyMedia,无,无,无,2011-3-31,662,USD44.99,9780596802479
+Python编程实践,JenniferCampbell/PaulGries/JasonMontojo/GregWilson,机械工业出版社华章公司,无,PracticalProgramming:AnIntroductiontoComputerScienceUsingPython,唐学韬,2011-12-31,309,49.00元,9787111364788
+C语言深度解剖,无,无,无,无,无,2010-7,165,29.00元,9787512401440
+Struts2技术内幕,陆舟,机械工业出版社,深入解析Struts2架构设计与实现原理,陆舟,无,2012-1,379,69.00元,9787111366966
+你不知道的JavaScript（中卷）,[美]KyleSimpson,人民邮电出版社,无,无,单业,2016-8,358,79.00元,9787115431165
+JavaScript & jQuery交互式Web前端开发,"[美]达克特(Duckett,J.)",清华大学出版社,无,无,杜伟,2015-6-9,314,79.80元,9787302397632
+C++面向对象程序设计,谭浩强,清华大学出版社,C++面向对象程序设计,无,无,2006-1,288,26.00元,9787302123156
+PHP基础教程,厄尔曼,人民邮电出版社,第3版,无,贾菡,2010-1,374,49.00元,9787115216786
+JavaScript模式,StoyanStefanov,中国电力出版社,无,JavaScriptPatterns,陈新,2012-7,208,38.00元,9787512329232
+MATLAB for Neuroscientists,PascalWallisch/MichaelLusignan/MarcBenayoun/TanyaI.Baker/AdamSethDickey/NichoHatsopoulos,AcademicPress,AnIntroductiontoScientificComputinginMATLAB,无,无,2008-11-6,400,$79.95,9780123745514
+iOS 7 Programming Cookbook,VandadNahavandipoor,O'ReillyMedia,无,无,无,2013-10-30,1056,USD54.99,9781449372422
+PC游戏编程,王小春,重庆大学出版社,人机博弈,无,无,2002-6-1,256,38.00元,9787562426448
+C# 5.0 in a Nutshell,JosephAlbahari/BenAlbahari,O'ReillyMedia,TheDefinitiveReference,无,无,2012-6-26,1064,GBP38.50,9781449320102
+我的第一本C++书,陈良乔,华中科技大学出版社,无,无,无,2011-5-5,392,58.80元,9787560969954
+Java Generics and Collections,Naftalin/PhilipWadler,O'ReillyMedia,无,无,无,2006-10-24,286,USD34.99,9780596527754
+树莓派学习指南,[英]PeterMembrey/[澳]DavidHows,人民邮电出版社,基于Linux,无,张志博,2014-4,201,49.00元,9787115344977
+ppk谈JavaScript,Peter-PaulKoch,人民邮电出版社,无,PPKonJavaScript,淘宝UED,2008-4,337,59.00元,9787115175458
+Pro Python,MartyAlchin,Apress,无,无,无,2010-06-15,368,USD49.99,9781430227571
+C语言解惑,AlanR.Feuer,人民邮电出版社,无,无,杨涛,2007,154,25.00元,9787115159731
+WCF全面解析（上下册）,蒋金楠,电子工业出版社,无,无,无,2012-4,1136,168.00元,9787121166563
+OpenCV 2 Computer Vision Application Programming Cookbook,RobertLaganière,PacktPublishing,无,无,无,2011-5-23,304,USD44.99,9781849513241
+Google API大全,高昂/段念/何峰/张凯峰/姚尚朗/苏哲/王翔/田淼/王俊煜/林胜/李明/刘宏伟,电子工业出版社,编程·开发·实例,无,无,2009-6,600,69.80元,9787121089725
+21天学通C++,"利伯帝,",人民邮电出版社,第五版,无,无,2005-01-01,634,59.00元,9787115136923
+Web全栈工程师的自我修养,余果,人民邮电出版社,无,无,无,2015-9-1,234,49.00,9787115399021
+Google Android开发入门与实战,姚尚朗/靳岩,人民邮电出版社,无,无,无,2009年6月,400,55.00元,9787115209306
+Ruby Cookbook,LucasCarlson/LeonardRichardson,O'ReillyMedia,无,无,无,2006-7-29,910,USD49.99,9780596523695
+ACM-ICPC世界总决赛试题解析,吴永辉/王建德,机械工业出版社,无,无,无,2012-8,371,55.00元,9787111390947
+卓越程序员密码,[美]KaWaiCheung,人民邮电出版社,卓越程序员密码,TheDeveloper'sCode:WhatRealProgrammersDo,劳,2012-11-3,172,29.00元,9787115295088
+iOS 6编程实战,内皮尔(RobNapier)/库马尔(MugunthKumar),人民邮电出版社,无,iOS6ProgrammingPushingtheLimits,陈晓亮,2013-4-1,432,99.00元,9787115312181
+Ruby基础教程,高桥征义/后藤裕藏,人民邮电出版社,无,无,何文斯,2014-9-1,334,CNY79.00,9787115366467
+80X86汇编语言程序设计教程,杨季文,清华大学出版社,无,无,无,1998-6-1,595,39.00元,9787302029014
+算法：C语言实现,塞奇威克,机械工业出版社,(第1～4部分)基础知识、数据结构、排序及搜索,无,霍红卫,2009-10,456,79.00元,9787111275718
+Software Tools,BrianW.Kernighan/P.J.Plauger,Addison-WesleyProfessional,无,无,无,1976-1-11,352,USD37.95,9780201036695
+Perl高效编程,[美]霍尔,人民邮电出版社,无,"EffectivePerlProgramming:WaystoWriteBetter,MoreIdiomaticPerl",胜春,2011-5,306,65.00元,9787115250469
+Java TCP/IP Socket编程,KennethL.Calvert/MichaelJ.Donahoo,机械工业出版社,无,TCP/IPSocketsinJava,周恒民,2009-1,172,29.00元,9787111257561
+Servlet与JSP核心编程,[美]霍尔,清华大学出版社,无,无,霍尔,2004-06-01,475,59.0,9787302086277
+Python网络数据采集,[美]米切尔,人民邮电出版社,无,WebScrapingwithPython:CollectingDatafromtheModernWeb,陶俊杰,2016-3-1,200,CNY59.00,9787115416292
+游戏开发的数学和物理,［日］加藤洁,人民邮电出版社,无,无,徐,无,264,59.00元,9787115375810
+软件调试实战,ThorstenGrotker/UlrichHoltmann/HolgerKeding/MarkusWloka,人民邮电出版社,无,TheDevelopersGuidetoDebugging,赵俐,2010-2,190,45.00元,9787115218858
+LabVIEW大学实用教程,JeffreyTravis/JimKring,电子工业出版社,LabVIEWforEveryone,无,乔瑞萍,2008-6,552,59.80元,9787121066672
+精通Android游戏开发,[美]VladimirSilva,人民邮电出版社,无,ProAndroidGames,王恒,2011-2,260,45.00元,9787115246981
+Linux就是这个范儿,[中]赵鑫磊/[加]JieZhang（张洁）,人民邮电出版社,无,无,无,2014-7,752,95.00元,9787115359360
+C安全编码标准,RobertC.Seacord,机械工业出版社,无,TheCERTCSecureCodingStandard,徐波,2010-1,496,69.00元,9787111284420
+Ruby Best Practices,GregoryTBrown,O'ReillyMedia,无,无,无,2009-6-26,328,USD34.99,9780596523008
+Windows高级调试,MarioHewardt/DanielPravat,机械工业出版社,无,无,聂雪军,2009-5,500,79.00元,9787111266396
+Invent Your Own Computer Games With Python,AlSweigart,Albert\Sweigart,无,无,无,2010-5-1,438,GBP15.74,9780982106013
+精通Matlab7,亨塞尔曼,清华大学出版社,无,Masteringmatlab7,朱仁峰,2006年05月,654页,69.0,9787302129479
+短码之美,"Ozy(著),やねうらお(監修)",人民邮电出版社,无,ShortCoding：職人達の技法，1E,无,2011-1-8,338,59.00元,9787115240446
+Perl网络编程,LincolnD.SteinStein,清华大学出版社,无,无,无,2002-3,582,62.00元,9787302052890
+From Mathematics to Generic Programming,AlexanderA.Stepanov/DanielE.Rose,Addison-WesleyProfessional,无,无,无,2011-9-13,320,USD39.99,9780321942043
+Text Processing in Python,DavidMertz,Addison-WesleyProfessional,无,无,无,2003-6-12,544,USD54.99,9780321112545
+实战Linux编程精髓,[美]罗宾斯,中国电力出版社,无,LinuxProgrammingbyExample,无,2005-7,506,59.80元,9787508330075
+UNIX系统编程,[美]罗宾斯,机械工业出版社,无,"UNIXSystemsProgramming:Communication,ConcurrencyandThreads",陈涓,2005-5,656,78.00元,9787111161905
+Object-Oriented Programming With ANSI-C,Axel-TobiasSchreiner,HanserFachbuch,无,无,无,1994,252,无,9783446174269
+Python 3面向对象编程,[加]DustyPhillips（达斯帝•菲利普斯）,电子工业出版社,无,无,肖鹏,2015-6,380,79.00元,9787121262463
+像程序员一样思考,V.AntonSpraul,人民邮电出版社,无,ThinkLikeaProgrammer,徐波,2013-6,256,49.00元,9787115316585
+x86/x64体系探索及编程,邓志,电子工业出版社,无,无,无,2012-10-1,813,119.00元,9787121181764
+深入理解Android,邓凡平,机械工业出版社,卷II,无,无,2012-8,440,79.00元,9787111389187
+逆袭大学,贺利坚,人民邮电出版社,传给IT学子的正能量,无,无,2014-3,356,49.00,9787115347473
+C++编程风格,TrevorMisfeldt/GregoryBumgardner,人民邮电出版社,无,TheElementsofC++Style,罗小平,2008.10,264,29.00元,9787115176059
+天书夜读,谭文/邵坚磊,电子工业出版社,从汇编语言到Windows内核编程,无,无,2008-10,270,45.00元,9787121073397
+.NET 4.0面向对象编程漫谈,金旭亮,电子工业出版社,基础篇,无,无,2010-10,341,45.00元,9787121119040
+Linux高级程序设计,JonMasters/RichardBlum,人民邮电出版社,无,ProfessionalLinuxProgramming,陈健,2008-7,390,59.00元,9787115179104
+Python for Informatics,Dr.CharlesRSeverance,CreateSpaceIndependentPublishingPlatform,ExploringInformation,无,无,2013-9-2,244,USD9.99,9781492339243
+通灵芯片,DanielHillis,上海世纪出版集团,计算机运作的简单原理,ThePatternontheStone:TheSimpleIdeasThatMakeComputersWork,崔良沂,2009-1,134,19.80元,9787532394418
+Java并发编程,(美)DougLea,中国电力出版社,设计原则与模式,ConcurrentProgramminginJava:DesignPrinciplesandPatterns,赵涌,2004-2-1,282,35,9787508318288
+NoSQL精粹,[美]PramodJ.Sadalage/[美]MartinFowler,机械工业出版社,无,NoSQLDistilled,爱飞翔,2013-8,176,49.00元,9787111433033
+构建高性能可扩展ASP.NET网站,RichardKiessig,人民邮电出版社,无,Ultra-fastASP.NET,余昭辉,2011-3,384,65.00元,9787115248336
+Think Python,AllenB.Downey,CreateSpace,AnIntroductiontoSoftwareDesign:HowToThinkLikeAComputerScientist,无,无,2009-02-27,240,USD22.95,9781441419163
+The Joy of Clojure,MichaelFogus/ChrisHouser,ManningPublications,ThinkingtheClojureWay,无,无,2011-4-4,300,USD44.99,9781935182641
+Everyday Scripting with Ruby,BrianMarick,PragmaticBookshelf,"ForTeams,Testers,andYou",无,无,2007-01-23,310,USD29.95,9780977616619
+The Scheme Programming Language,R.KentDybvig,TheMITPress,无,无,无,2003-9-26,307,USD40.00,9780262541480
+深入理解 Flask,[美]JackStouffer,电子工业出版社,掌握用Python创建强大动态Web应用的技术,MasteringFlask,苏丹,2016-7-1,256,79.00,9787121292316
+Node.js实战,无,人民邮电出版社,无,Node.jsinAction,[美]MikeCantelon,2014-5,356,69.00元,9787115352460
+Java特种兵（上册）,谢宇,电子工业出版社,无,无,无,2014-9-1,492,79.00元,9787121239359
+AppStore掘金,乔纳森,人民邮电出版社,iPhoneSDK应用程序开发,无,鲁成东,2010-1,351,59.00元,9787115218230
+精通Perl,Briandfoy,电子工业出版社,无,MasteringPerl,韩殿飞,2009-1,322,68.00元,9787121077135
+Head First Web Design,EthanWatrall/JeffSiarto,"O’ReillyMedia,Inc.",ABrainFriendlyGuide,无,无,2009-01-02,495,$49.99,9780596520304
+泛型编程与STL,MatthewH.Austern,中国电力出版社,无,GenericProgrammingandtheSTL,侯捷,2003-1,548,72.00元,9787508314877
+PYTHON技术手册,马特利,东南大学出版社,无,无,无,2006-11,695,78.00元,9787564105761
+Go 语言程序设计,MarkSummerfield,人民邮电出版社,无,ProgramminginGo,许式伟,2013-8-1,354,CNY69.00,9787115317902
+JSP设计（第三版）,鲍格斯坦,中国电力出版社,无,JavaServerPages,林琪,2005-07-09,778,79.00元,9787508322735
+程序员面试逻辑题解析,萨沙,人民邮电出版社,无,PuzzlesforProgrammersandPros,朱学武,2013-1,208,35.00元,9787115301956
+Flash游戏编程基础教程,RexvanderSpuy,人民邮电,无,无,李,2011-6,474,75.00元,9787115254344
+复杂性思考,AllenB.Downey,机械工业出版社,无,ThinkComplexity,张龙,2013-5,117,49.00元,9787111419990
+Web开发秘方,BrianP.Hogan/ChrisWarren/MikeWeber/ChrisJohnson/AaronGodin,华中科技大学出版社,无,WebDevelopmentRecipes,七印部落,2013-7-10,340,66.00元,9787560988955
+iOS开发指南,关东升,人民邮电出版社,从零基础到AppStore上架,无,无,2013-8-1,690,99.00元,9787115324443
+程序设计导引及在线实践,李文新/郭炜/余华山,清华大学出版社,21世纪大学本科计算机专业系列教材,无,无,2007年11月,290,26.00元,9787302158332
+GNU/Linux编程指南(第二版),"KurtWall,etal.",清华大学出版社,入门·应用·精通,"LinuxProgrammingUnleashed,SecondEdition",张辉,2002-6-1,674,68.00元,9787302055501
+Python计算机视觉编程,[瑞典]JanErikSolem,人民邮电出版社,无,ProgrammingComputerVisionwithPython,朱文涛,2014-6-10,284,69.00,9787115352323
+算法基础,布拉萨德,清华大学出版社,无,无,邱仲潘,2005-7,404,49.00元,9787302106098
+敏捷软件开发,[美]RobertC·Martin,清华大学出版社,原则、模式与实践,"AgileSoftwareDevelopment:Principles,Patterns,andPractices",邓辉,2003-09-01,476,59.00元,9787302071976
+Oracle SQL高级编程,[美]KarenMorton/KerryOsborne/RobynSands/RiyajShamsudeen/JaredStill,人民邮电出版社,无,ProOracleSQL,朱浩波,2011-11,502,89.00元,9787115266149
+iOS软件开发揭密,虞斌,电子工业出版社,iPhone&iPad企业应用和游戏开发,无,无,2011-5-1,440,79.00元,9787121133022
+R语言实战,卡巴科弗,人民邮电出版社,无,RinAction,高涛,2013-1,388,79.00元,9787115299901
+Java就业培训教程,张孝祥,清华大学出版社,无,无,无,2003-9,394,39.00元,9787302072959
+提高C++性能的编程技术,(美)DovBulka（多夫.布尔卡）DavidMayhew（大卫.梅休）,电子工业出版社,无,EfficientC++:PerformanceProgrammingTechniques,左飞,2011-3-28,272,59.00元,9787121129377
+Android开发入门教程,李雪飞/吴明晖,人民邮电出版社,无,BeginningAndroid2,MarkMurphy,2010-12,308,59.00元,9787115241160
+游戏人工智能编程案例精粹,巴克兰德(MatBuckland),人民邮电出版社,无,无,罗岱,2008年06月,368页,55.00元,9787115178060
+JAVASCRIPT权威指南(第四版),[美]DavidFlanagan,机械工业出版社,无,无,张铭泽,2003-1-1,1015,99.00,9787111110910
+Java语言程序设计,（美）Y.DanielLiang,机械工业出版社,进阶篇(原书第8版),IntroductiontoJavaProgramming，EighthEdition,李娜,2011-6,528,79.00元,9787111342366
+Git Internals,无,PeepCodePress,Sourcecodecontrolandbeyond,ScottChacon,无,2008,120,USD9.00,9783293000018
+UNIX网络编程卷2,Stevens,(影印版)(2002年1月1日),进程间通信,无,无,2002-4,558,47.0,9787302053552
+R for Data Science,HadleyWickham/GarrettGrolemund,O'ReillyMedia,"Visualize,Model,Transform,Tidy,andImportData",无,无,2016-12-25,518,USD39.99,9781491910399
+程序员必读之软件架构,[英]SimonBrown,人民邮电出版社,无,SoftwareArchitectureforDevelopers,邓,2014-12,228,49.00元,9787115371072
+Google Android SDK开发范例大全,余志龙/陈昱勋/郑名杰/陈小凤/郭秩均,人民邮电出版社,无,无,无,2009,616,79.00元,9787115208934
+Ruby Programming,高桥征义/后藤裕藏,电子工业出版社,向Ruby之父学程序设计,たのしいRuby第2版,博硕文化,2009-4,272,42.00元,9787121077029
+SQLite权威指南,GrantAllen/MikeOwens,电子工业出版社,无,TheDefinitiveGuidetoSQLite,杨谦,2012-1-15,380,69.00元,9787121149245
+SCJP学习指南,KATHYSIERRABERTBATES,人民邮电,SunCertifiedProgrammerforJava5,无,无,2006-10,509,69.00元,9787115151353
+JavaScript核心概念及实践,邱俊涛,人民邮电出版社,无,无,无,2013-5-1,250,49.00元,9787115313515
+黑客反汇编揭秘,KrisKaspersky/谭明金,电子工业出版社,无,HackerDisassemblingUncovered,谭明金,2004-10-1,552,59.00,9787121002069
+Visual C# 2010从入门到精通,夏普(JohnSharp),清华大学出版社,StepbyStep,MicrosoftVisualC#2010StepbyStep,周靖,2010年8月1日,652,78.00元,9787302234289
+Qt高级编程,(英)萨默菲尔德|译者,电子工业,无,无,出版社:电子工业,2011-4,327,59.00元,9787121131103
+Android的设计与实现,杨云君,机械工业出版社,卷I,无,无,2013-5-1,419,79.00元,9787111417132
+Head First iPhone Development,DanPilone/TraceyPilone,O'ReillyMedia,ALearner'sGuidetoCreatingObjective-CApplicationsfortheiPhone,无,无,2009-10-30,560,USD44.99,9780596803544
+学习JavaScript数据结构与算法,[巴西]格罗纳（LoianeGroner）,人民邮电出版社,无,LearningJavaScriptDataStructuresandAlgorithms,孙晓博,2015-10-1,159,39.00,9787115404145
+精通shell编程,韦拉拉格温(VeeraraghavanSriranga),人民邮电出版社,无,"SamsTeachYourselfShellProgrammingin24Hours,SecondEdition",卢涛,2003-2,350,39.0,9787115111418
+Beginning Game Development with Python and Pygame,WillMcGugan,Apress,FromNovicetoProfessional,无,无,"August20,2007",300,$26.39,9781590598726
+R和Ruby数据分析之旅,（新加坡）SauSheongChang,人民邮电出版社,无,ExploringEverydayThingswithRandRuby,钱昊,2013-3,224,45.00元,9787115303707
+Java深度历险,王森,华中科技大学出版社,无,无,无,2003-12-1,272,29.8,9787560928326
+写给大家看的算法书,【日】杉浦贤,电子工业出版社,无,无,绝云,2016-6,192,59.00元,9787121287442
+自制编译器,[日]青木峰郎,人民邮电出版社,无,无,严圣逸,2016-6,472,99.00元,9787115422187
+C语言教程,"(美)凯利,(美)波尔",机械工业出版社,无,无,无,2007-1,423,45.00元,9787111202134
+Beginning Java Objects中文版从概念到代码,巴克,人民邮电出版社,无,无,万波,2007-1,701,78.00元,9787115154408
+"A Little Java, A Few Patterns",MatthiasFelleisen/DanielP.Friedman,TheMITPress,无,无,无,1997-12-19,194,USD28.00,9780262561150
